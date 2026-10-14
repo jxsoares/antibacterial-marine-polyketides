@@ -1,0 +1,254 @@
+ID,Name,Scaffold,Type,Subtype,SMILES,DOI_Structures,Semi_synthetic
+AQ001,"6,6′-oxybis(1,3,8-trihydroxy-2-((S)-1-methoxyhexyl)anthracene-9,10-dione)",anthraquinone,dimer,complex,OC1=CC(OC2=CC(O)=C(C(C(C(O)=C([C@@H](OC)CCCCC)C(O)=C3)=C3C4=O)=O)C4=C2)=CC5=C1C(C6=C(C5=O)C=C(O)C([C@@H](OC)CCCCC)=C6O)=O,10.1016/j.fitote.2018.11.015,0
+AQ002,"6,6′-oxybis(1,3,8-trihydroxy-2-((S)-1-hydroxyhexyl) anthracene-9,10-dione)",anthraquinone,dimer,complex,O=C1C2=C(C(C3=C1C=C(C=C3O)OC4=CC(O)=C5C(C(C6=C(C5=O)C(O)=C([C@@H](O)CCCCC)C(O)=C6)=O)=C4)=O)C(O)=C([C@@H](O)CCCCC)C(O)=C2,10.1016/j.fitote.2018.11.015,0
+AQ003,1′-O-methylaverantin,anthraquinone,monomer,simple,OC1=CC(O)=C(C2=C1)C(C3=C(C2=O)C=C(O)C([C@@H](OC)CCCCC)=C3O)=O,10.1016/j.fitote.2018.11.015,0
+AQ004,Averantin,anthraquinone,monomer,simple,OC1=CC(O)=C(C2=C1)C(C3=C(C2=O)C=C(O)C([C@@H](O)CCCCC)=C3O)=O,10.1016/j.fitote.2018.11.015,0
+AQ005,Averythrin,anthraquinone,monomer,simple,OC1=CC(O)=C(C2=C1)C(C3=C(C2=O)C=C(O)C(/C=C/CCCC)=C3O)=O,10.1016/j.fitote.2018.11.015,0
+AQ006,"3,8-dihydroxy-1-propylanthraquinone-2-carboxylic acid",anthraquinone,monomer,simple,O=C1C2=C(C=C(O)C(C(O)=O)=C2CCC)C(C3=CC=CC(O)=C31)=O,10.1515/znb-2006-1122,0
+AQ007,8-Acetoxy-3-hydroxy-1-propylanthraquinone-2-carboxylic acid,anthraquinone,monomer,simple,O=C1C2=C(C=C(O)C(C(O)=O)=C2CCC)C(C3=CC=CC(OC(C)=O)=C31)=O,10.1515/znb-2006-1122,1
+AQ008,8-Acetoxy-3-methoxy-1-propylanthraquinone-2-carboxylic acid methyl ester,anthraquinone,monomer,simple,O=C1C2=C(C=C(C(C(OC)=O)=C2CCC)OC)C(C3=CC=CC(OC(C)=O)=C31)=O,10.1515/znb-2006-1122,1
+AQ009,8-hydroxy-3-methoxy-1-propylanthraquinone,anthraquinone,monomer,simple,O=C1C2=C(C=C(C=C2CCC)OC)C(C3=CC=CC(O)=C31)=O,10.1515/znb-2006-1122,0
+AQ010,8-acetoxy-3-methoxy-1-propylanthraquinone,anthraquinone,monomer,simple,O=C1C2=C(C=C(OC)C=C2CCC)C(C3=CC=CC(OC(C)=O)=C31)=O,10.1515/znb-2006-1122,1
+AQ011,"3,8-dihydroxy-1-propylanthraquinone",anthraquinone,monomer,simple,O=C1C2=C(C=C(O)C=C2CCC)C(C3=CC=CC(O)=C31)=O,10.1515/znb-2006-1122,0
+AQ012,"3,8-dimethoxy-1-propylanthraquinone",anthraquinone,monomer,simple,O=C1C2=C(C=C(OC)C=C2CCC)C(C3=CC=CC(OC)=C31)=O,10.1515/znb-2006-1122,1
+AQ014,Auxarthrol D,anthraquinone,monomer,hydroanthraquinone,O=C1[C@@]2([H])[C@@]([C@@H](O)[C@@H](O)[C@@](C)(O)C2)(O)C(C3=C(O)C=C(OC)C=C31)=O,10.3390/md17060334,0
+AQ015,Auxarthrol E,anthraquinone,derivative,hydroanthraquinone,O=C1C2=C(O)C=C(OC)C=C2[C@H](O)[C@@]3(O)[C@]1(O)[C@@H](O)[C@@H](O)[C@@](O)(C)C3,10.3390/md17060334,0
+AQ016,Auxarthrol F,anthraquinone,derivative,hydroanthraquinone,O=C1C2=C(O)C=C(OC)C=C2[C@@H](O)[C@@]3(O)[C@@]1([H])[C@@H](O)[C@@H](O)[C@](O)(C)C3,10.3390/md17060334,0
+AQ017,Auxarthrol G,anthraquinone,monomer,hydroanthraquinone; chlorinated,O=C([C@@]1(Cl)[C@@]2(O)C[C@@](O)(C)[C@H](O)[C@@H]1O)C3=C(O)C=C(OC)C=C3C2=O,10.3390/md17060334,0
+AQ018,Auxarthrol H,anthraquinone,derivative,hydroanthraquinone,O=C1C2=C(O)C=C(OC)C=C2[C@H](O)[C@]34[C@@]1(O4)[C@@H](O)[C@@H](O)[C@](O)(C)C3,10.3390/md17060334,0
+AQ019,4-dehydroxyaltersolanol A,anthraquinone,monomer,hydroanthraquinone,O=C(C1=C2C[C@@](O)(C)[C@H](O)C1[H])C3=C(O)C=C(OC)C=C3C2=O,10.3390/md17060334,0
+AQ020,Altersolanol B,anthraquinone,monomer,hydroanthraquinone,O=C(C1=C2C[C@@](O)(C)[C@H](O)[C@H]1O)C3=C(O)C=C(OC)C=C3C2=O,10.3390/md17060334,0
+AQ021,Aloesaponarin II,anthraquinone,monomer,simple,O=C1C2=C(C=CC=C2O)C(C3=CC(O)=CC(C)=C31)=O,10.1007/s11274-007-9477-5,0
+AQ022,chrysophanol,anthraquinone,monomer,simple,O=C1C2=C(C=C(C)C=C2O)C(C3=CC=CC(O)=C31)=O,10.1007/s10600-020-02956-w,0
+AQ023,"6,8-di-O-methylaverantin",anthraquinone,monomer,simple,O=C1C2=C(C=C(O)C([C@@H](O)CCCCC)=C2O)C(C3=C1C(OC)=CC(OC)=C3)=O,10.1271/bbb.120047,0
+AQ024,"6,8-di-O-methylversiconol",anthraquinone,monomer,simple,O=C1C2=C(C=C(O)C(C(CO)CCO)=C2O)C(C3=C1C(OC)=CC(OC)=C3)=O,10.1271/bbb.120047,0
+AQ025,"6,8-di-O-methylaverufin",anthraquinone,monomer,o-heterocyclic,O=C1C2=C(C=C(OC3(C)OC4CCC3)C4=C2O)C(C5=CC(OC)=CC(OC)=C51)=O,10.1271/bbb.120047,0
+AQ026,6-O-methylaverufin,anthraquinone,monomer,o-heterocyclic,O=C1C2=C(C=C(OC3(C)OC4CCC3)C4=C2O)C(C5=CC(OC)=CC(O)=C51)=O,10.1271/bbb.120047,0
+AQ027,"6,8-di-O-methylnidurufin",anthraquinone,monomer,o-heterocyclic,O=C1C2=C(C=C(OC34C)C(C(O4)C(O)CC3)=C2O)C(C5=CC(OC)=CC(OC)=C51)=O,10.1271/bbb.120047,0
+AQ028,(-)-aversin,anthraquinone,monomer,o-heterocyclic,O=C1C2=C(C=C(OC3C4CCO3)C4=C2O)C(C5=CC(OC)=CC(OC)=C51)=O,10.1271/bbb.120047,0
+AQ029,"6,8-di-O-methylversicolorin A",anthraquinone,monomer,o-heterocyclic,O=C1C2=C(C=C(OC3C4C=CO3)C4=C2O)C(C5=CC(OC)=CC(OC)=C51)=O,10.1271/bbb.120047,0
+AQ030,Coniothyrinone A,anthraquinone,derivative,hydroanthraquinone,O=C1[C@]2([H])[C@@](C=C[C@H](O)[C@H]2O)([H])[C@H](O)C3=C1C(O)=CC(C)=C3,10.1007/s10600-020-02956-w,0
+AQ031,Lentisone,anthraquinone,monomer,hydroanthraquinone,O=C1C2=C(C[C@H](O)[C@H](O)[C@H]2O)C(C3=C1C(O)=CC(C)=C3)=O,10.1007/s10600-020-02956-w,0
+AQ032,Emodin,anthraquinone,monomer,simple,O=C1C2=C(C=C(O)C=C2O)C(C3=C1C(O)=CC(C)=C3)=O,10.1007/s10600-020-02956-w,0
+AQ042,Monodictyquinone A,anthraquinone,monomer,simple,O=C1C2=C(C=C(C=C2O)C)C(C3=C1C(O)=C(C([H])=C3)OC)=O,10.1248/cpb.55.1097,0
+AQ043,3-O-(a-D-ribofuranosyl) questinol,anthraquinone,monomer,complex,O[C@@H]1[C@@H](CO)O[C@H](OC2=CC(C(C3=CC(CO)=CC(O)=C3C4=O)=O)=C4C(OC)=C2)[C@@H]1O,10.1002/hlca.201300358,0
+AQ050,(+)-variecolorquinone A,anthraquinone,monomer,simple,OC1=CC(OC)=C2C(C(C(C=C(C(C(OC[C@@H](CO)O)=O)=C3O)C)=C3C2=O)=O)=C1,10.1002/hlca.201300358,0
+AQ051,Saliniquinone G,anthraquinone,monomer,o-heterocyclic,OC1=CC=CC(C(C2=C3C(OC([C@@](C)(O)CC)=CC4=O)=C4C(CO)=C2)=O)=C1C3=O,10.3390/md19100575,0
+AQ052,Saliniquinone H,anthraquinone,monomer,o-heterocyclic,OC1=CC=CC(C(C2=C3C(OC([C@@](C)(O)[C@@H](O)C)=CC4=O)=C4C(CO)=C2)=O)=C1C3=O,10.3390/md19100575,0
+AQ053,Saliniquinone I,anthraquinone,monomer,o-heterocyclic,OC1=CC=CC(C(C2=C3C(OC([C@@]4(C)O[C@H]4C)=CC5=O)=C5C(C)=C2)=O)=C1C3=O,10.3390/md19100575,0
+AQ054,Heraclemycin E,anthraquinone,monomer,simple,OC1=CC=CC(C(C2=C3C(O)=C(C(CCC)=O)C(C)=C2)=O)=C1C3=O,10.3390/md19100575,0
+AQ055,Urdamycinone E,anthraquinone,monomer,complex,O[C@H]1C(O)C[C@H](C2=CC=C(C3=O)C(C(C4=C3[C@]5(O)[C@](C[C@](O)(C)CC5=O)(O)C(SC)=C4)=O)=C2O)O[C@@H]1C,10.1016/j.phytol.2012.06.015,0
+AQ056,Urdamycinone G,anthraquinone,monomer,complex,O[C@H]1C(O)C[C@H](C2=CC=C(C3=O)C(C(C4=C3[C@]5(O)[C@](CC(C)=CC5=O)(O)C(SC)=C4)=O)=C2O)O[C@@H]1C,10.1016/j.phytol.2012.06.015,0
+AQ057,Dehydroxyaquayamycin,anthraquinone,monomer,complex,O[C@H]1C(O)C[C@H](C2=CC=C(C3=O)C(C(C4=C3C5=C(C=C(C)C=C5O)C=C4)=O)=C2O)O[C@@H]1C,10.1016/j.phytol.2012.06.015,0
+AQ058,Urdamycin E,anthraquinone,monomer,complex,C[C@H]1O[C@@H](C2=C(O)C(C(C(C=C(SC)[C@@](C[C@@](C)(O)C3)(O)[C@]4(O[C@@H]5O[C@@H](C)[C@@H](O)CC5)C3=O)=C4C6=O)=O)=C6C=C2)C[C@@H](O[C@H]7CC[C@H](O[C@H]8C[C@@H](O)[C@H](O)[C@@H](C)O8)[C@H](C)O7)[C@@H]1O,10.1016/j.phytol.2012.06.015,0
+AQ059,Penipurdin A,anthraquinone,monomer,simple,OC1=CC(C(C(C=C(C[C@@H](O)C)C=C2O)=C2C3=O)=O)=C3C(OC)=C1,10.3390/md19080457,0
+AQ060,Acetylquestinol,anthraquinone,monomer,simple,OC1=CC(C(C(C=C(COC(C)=O)C=C2O)=C2C3=O)=O)=C3C(OC)=C1,10.3390/md19080457,0
+AQ063,Trichodermaquinone,anthraquinone,monomer,hydroanthraquinone,OC1=CC(CO)=CC2=C1C(C3=C(C2=O)C[C@H](O)[C@H](O)C3)=O,10.1007/s12272-012-0309-2,0
+AQ064,Coniothranthraquinone 1,anthraquinone,monomer,hydroanthraquinone,CC(C=C1O)=CC2=C1C(C3=C(C2=O)C[C@H](O)[C@H](O)C3)=O,10.1007/s12272-012-0309-2,0
+AQ065,Isorhodoptilometrin,anthraquinone,monomer,simple,OC1=CC(CC(C)O)=C([H])C2=C1C(C3=C(C2=O)C=C(O)C=C3O)=O,10.1007/s12272-012-0309-2,0
+AQ066,Pachybasin,anthraquinone,monomer,simple,CC(C=C1O)=C([H])C2=C1C(C3=C(C2=O)C=C([H])C=C3[H])=O,10.1007/s12272-012-0309-2,0
+AQ067,ω-hydroxyemodin (citreorosein),anthraquinone,monomer,simple,OC1=CC(CO)=C([H])C2=C1C(C3=C(C2=O)C=C(O)C=C3O)=O,10.1007/s12272-012-0309-2,0
+AQ068,"2-(dimethoxymethyl)-1-hydroxyanthracene-9,10-dione",anthraquinone,monomer,simple,OC1=C(C(OC)OC)C=CC(C(C2=C3C=CC=C2)=O)=C1C3=O,10.1080/14786419.2017.1329732,0
+AQ069,Damnacanthal,anthraquinone,monomer,simple,O=C1C2=C(C=C(O)C(C=O)=C2OC)C(C3=C1C=CC=C3)=O,10.1080/14786419.2017.1329732,0
+AQ070,Xanthopurpurin,anthraquinone,monomer,simple,OC1=C([H])C(O)=CC2=C1C(C3=C(C2=O)C=CC=C3)=O,10.1080/14786419.2017.1329732,0
+AQ071,Methyl-averantin,anthraquinone,monomer,simple,OC1=C([C@H](CCCCC)OC)C(O)=CC2=C1C(C3=C(O)C=C(O)C=C3C2=O)=O,10.1007/s12272-010-0207-4,0
+AQ072,Averufin,anthraquinone,monomer,o-heterocyclic,OC1=C2C(O[C@]3(C)O[C@H]2C([H])CC3)=CC4=C1C(C5=C(O)C=C(O)C=C5C4=O)=O,10.1007/s12272-010-0207-4,0
+AQ073,Nidurufin,anthraquinone,monomer,o-heterocyclic,OC1=C2C(O[C@]3(C)O[C@H]2[C@@H](O)CC3)=CC4=C1C(C5=C(O)C=C(O)C=C5C4=O)=O,10.1007/s12272-010-0207-4,0
+AQ074,Tetrahydrobostrycin,anthraquinone,derivative,hydroanthraquinone,O[C@@H]1[C@]2([H])[C@@]([C@H](O)[C@@H](O)[C@@](C)(O)C2)([H])C(C3=C1C(O)=C(C=C3O)OC)=O,10.1038/ja.2008.57,0
+AQ075,1-deoxytetrahydrobostrycin,anthraquinone,derivative,hydroanthraquinone,O[C@@H]1[C@]2([H])[C@@](C([H])[C@@H](O)[C@@](C)(O)C2)([H])C(C3=C1C(O)=C(C=C3O)OC)=O,10.1038/ja.2008.57,0
+AQ076,Karimunone A,anthraquinone,monomer,simple,OC1=C2C(C(C(C(C(C)=O)=C(O)C=C3O)=C3C2=O)=O)=C(O)C(OC)=C1,10.3762/bjoc.15.289,0
+AQ077,Boshramycinone A,anthraquinone,derivative,anthracyclinone,OC1=C2C(C(C(C=C(C=C(C)C=C3)C3=C4O)=C4C2=O)=O)=C([H])C=C1,10.1080/14786419.2019.1645658,0
+AQ078,Boshramycinone B,anthraquinone,derivative,anthracyclinone,[H]C1=C2C(C(C(C=C(C=C(C)C=C3)C3=C4O)=C4C2=O)=O)=C(O)C=C1,10.1080/14786419.2019.1645658,0
+AQ079,Boshramycinone C,anthraquinone,derivative,anthracyclinone,OC1=C2C(C(C(C=C(C[C@@](O)(C)C[C@@H]3O)C3=C4O)=C4C2=O)=O)=CC=C1,10.1080/14786419.2019.1645658,0
+AQ080,"2-acetyl-1,8-dihydroxy-3-methylanthraquinone",anthraquinone,monomer,simple,CC(C(C(C)=O)=C1O)=CC2=C1C(C3=C(O)C=CC=C3C2=O)=O,10.1080/14786419.2019.1645658,0
+AQ081,Isorhodoptilometrin-1-methyl ether,anthraquinone,monomer,simple,OC1=CC(O)=CC2=C1C(C3=C(C2=O)C=C(CC(O)C)C=C3OC)=O,10.1007/s12272-012-1006-x,0
+AQ082,1-Methyl emodin,anthraquinone,monomer,simple,OC1=CC(O)=CC2=C1C(C3=C(C2=O)C=C(C)C=C3OC)=O,10.1007/s12272-012-1006-x,0
+AQ088,Mersaquinone,anthraquinone,derivative,anthracyclinone,OC1=CC(C)=C(C(C(C(O)=C(C(O)=CC(O)=C2)C2=C3)=C3C4=O)=O)C4=C1,10.3390/antibiotics9050252,0
+AQ089,Tetracenomycin D,anthraquinone,derivative,anthracyclinone,OC1=CC(C)=C(C(O)=C(C(C(C(O)=CC(O)=C2)=C2C3=O)=O)C3=C4)C4=C1,10.3390/antibiotics9050252,0
+AQ092,9-dehydroxyeurotinone,anthraquinone,derivative,simple,CC1=CC(O)=C2C(CC3=CC(O)=CC(O)=C3OC2=O)=C1,10.1002/hlca.201100255,0
+AQ094,Emodic acid,anthraquinone,monomer,simple,O=C(C1=C2C=C(O)C=C1O)C3=C(O)C=C(C(O)=O)C=C3C2=O,10.1016/j.fitote.2019.03.031,0
+AQ095,4a-epi-9α-methoxydihydrodeoxybostrycin,anthraquinone,derivative,hydroanthraquinone,O=C1C2=C(O)C=C(OC)C(O)=C2[C@H](OC)[C@@]3([H])C[C@](C)(O)[C@H](O)C[C@@]13[H],10.1021/np300103w,0
+AQ098,9α-Hydroxydihydrodesoxybostrycin,anthraquinone,derivative,hydroanthraquinone,OC(C(OC)=CC(O)=C12)=C1[C@H](O)[C@@]3([H])C[C@](C)(O)[C@H](O)C([H])[C@]3([H])C2=O,10.1021/np300103w,0
+AQ099,9α-Hydroxyhalorosellinia A,anthraquinone,derivative,hydroanthraquinone,OC(C(OC)=CC(O)=C12)=C1[C@H](O)[C@@]3([H])C[C@](C)(O)[C@H](O)[C@@H](O)[C@]3([H])C2=O,10.1021/np300103w,0
+AQ104,"3,5,8-trihydroxy-7-methoxy-2-methylanthracene-9,10-dione",anthraquinone,monomer,simple,O=C1C2=C(C(O)=CC(OC)=C2O)C(C3=CC(O)=C(C)C=C13)=O,10.1021/np300103w,0
+AQ105,"8-Acetoxy-3,5-dihydroxy-7-methoxy-2-methylanthracene-9,10 dione",anthraquinone,monomer,simple,OC1=C(C(C(C=C(O)C(C)=C2)=C2C3=O)=O)C3=C(C(OC)=C1)OC(C)=O,10.1021/np300103w,1
+AQ106,"5-Acetoxy-3,8-dihydroxy-7-methoxy-2-methylanthracene-9,10-dione",anthraquinone,monomer,simple,OC(C(OC)=C1)=C2C(C(C(C=C(O)C(C)=C3)=C3C2=O)=O)=C1OC(C)=O,10.1021/np300103w,1
+AQ107,"3-Acetoxy-5,8-dihydroxy-7-methoxy-2-methylanthracene-9,10-dione",anthraquinone,monomer,simple,OC1=C2C(C(C(C=C(C(C)=C3)OC(C)=O)=C3C2=O)=O)=C(O)C=C1OC,10.1021/np300103w,1
+AQ108,"5,8-Diacetoxy-3-hydroxy-7-methoxy-2-methylanthracene-9,10-dione",anthraquinone,monomer,simple,CC1=CC2=C(C=C1O)C(C3=C(C=C(OC)C(OC(C)=O)=C3C2=O)OC(C)=O)=O,10.1021/np300103w,1
+AQ109,"3,8-Diacetoxy-5-hydroxy-7-methoxy-2-methylanthracene-9,10-dione",anthraquinone,monomer,simple,OC1=C(C(C(C=C(C(C)=C2)OC(C)=O)=C2C3=O)=O)C3=C(C(OC)=C1)OC(C)=O,10.1021/np300103w,1
+AQ110,"3,5-Diacetoxy-8-hydroxy-7-methoxy-2-methylanthracene-9,10-dione",anthraquinone,monomer,simple,OC(C(OC)=C1)=C2C(C(C(C=C(C(C)=C3)OC(C)=O)=C3C2=O)=O)=C1OC(C)=O,10.1021/np300103w,1
+AQ111,"2-methoxy-7-methyl-9,10-dioxo-9,10-dihydroanthracene-1,4,6-triyl triacetate",anthraquinone,monomer,simple,CC1=CC2=C(C=C1OC(C)=O)C(C3=C(C=C(OC)C(OC(C)=O)=C3C2=O)OC(C)=O)=O,10.1021/np300103w,1
+AQ112,Austrocortirubin,anthraquinone,monomer,simple,OC1=C2C(C(C(C=CC(C)=C3)=C3C2=O)=O)=C(O)C=C1OC,10.1021/np300103w,0
+AQ113,8-Acetoxyaustrocortirubin,anthraquinone,monomer,simple,OC1=C(C(C(C=CC(C)=C2)=C2C3=O)=O)C3=C(C(OC)=C1)OC(C)=O,10.1021/np300103w,1
+AQ114,Versicolorin B,anthraquinone,monomer,o-heterocyclic,O=C1C2=C(C(O)=C([C@](CCO3)([H])[C@]3([H])O4)C4=C2)C(C5=C(O)C=C(O)C=C51)=O,10.3390/md17050262,0
+AQ123,versiconol B,anthraquinone,monomer,simple,OC1=C2C(C(C(C=C(O)C(C(CCO)CO)=C3O)=C3C2=O)=O)=CC=C1,10.1016/j.phytol.2018.06.009,0
+AQ125,Lunatin,anthraquinone,monomer,simple,O=C(C1=C(C(OC)=C2[H])[H])C3=C(C(C1=C2O)=O)C(O)=C(C(O)=C3[H])[H],10.1021/np010390i,0
+AQ126,Cytoskyrin A,anthraquinone,dimer,complex,O=C1C2=C(O)C3[C@@H](O)C(C4[C@H](O)C5C(O)=C6C34C(C(C=C(C=C7O)OC)=C7C6=O)=O)C25C(C8=C1C(O)=CC(OC)=C8)=O,10.1021/np010390i,0
+AQ127,4-acetylchrysophanol,anthraquinone,monomer,simple,O=C1C2=C(C(C(C)=O)=C(C)C=C2O)C(C3=CC=CC(O)=C31)=O,10.1002/cbdv.202000057,0
+AQ128,Islandicin,anthraquinone,monomer,simple,O=C1C2=C(C(O)=C(C)C=C2O)C(C3=CC=CC(O)=C31)=O,10.1002/cbdv.202000057,0
+AQ129,Huanglongmycin A,anthraquinone,monomer,simple,O=C1C2=C(C=C(C)C(C(C)=O)=C2O)C(C3=CC=CC(O)=C31)=O,10.1002/cbdv.202000057,0
+AQ130,Isoversicolorin B,anthraquinone,monomer,o-heterocyclic,OC1=CC(C(C2=C(C3=O)C4=C([C@@](CCO5)([H])[C@@]5([H])O4)C(O)=C2)=O)=C3C(O)=C1,10.1055/a-0835-2332,0
+AQ131,"6,8-O-Dimethylbipolarin",anthraquinone,monomer,o-heterocyclic,COC1=CC2=C(C(C3=C(C2=O)C=C(C([C@@H]4CCCO4)=C3O)O)=O)C(OC)=C1,10.1055/a-0835-2332,0
+AQ132,Deoxynyboquinone,anthraquinone,monomer,simple,CC1=CC(NC(C(C(N2C)=C3C(C)=CC2=O)=O)=C1C3=O)=O,10.3390/md9081428,0
+AQ133,Pseudonocardian A,anthraquinone,derivative,n-heterocyclic,CC1=CC(N([C@](O)(C)C2)C([C@]2(O)C(N3C)=C4C(C)=CC3=O)=C1C4=O)=O,10.3390/md9081428,0
+AQ134,Pseudonocardian B,anthraquinone,derivative,n-heterocyclic,CC1=CC(N([C@](C2)(O)CC)C([C@]2(O)C(N3C)=C4C(C)=CC3=O)=C1C4=O)=O,10.3390/md9081428,0
+AQ136,Chrysophanol 8-methyl ether,anthraquinone,monomer,simple,O=C1C2=C(C=C(C)C=C2O)C(C3=C1C(OC)=CC=C3)=O,10.1038/ja.2008.53,0
+AQ137,Asphodelin,anthraquinone,dimer,complex,OC1=CC=CC(C(C2=C3C(O)=CC(C)=C2C4=C(O)C5=C(C(C(C=C(C)C=C6O)=C6C5=O)=O)C=C4)=O)=C1C3=O,10.1038/ja.2008.53,0
+AQ140,BE-43472B,anthraquinone,dimer,complex,OC1=C2C([C@@]3(O4)[C@@]5(C6=C4C(C7=O)=C(C=C6)C(C8=C7C(O)=CC(C)=C8)=O)C(C2=O)=C(O)C[C@](O)(C)[C@@]5([H])[C@H](C)O3)=CC=C1,10.1016/j.bmc.2006.08.038,0
+AQ141,BE-43472A,anthraquinone,dimer,complex,OC1=C2C([C@@]3(O4)[C@@]5(C6=C4C(C7=O)=C(C=C6)C(C8=C7C(O)=CC(C)=C8)=O)C(C2=O)=C(O)C[C@](O)(C)[C@@]5(O)[C@H](C)O3)=CC=C1,10.1016/j.bmc.2006.08.038,0
+AQ142,Bisanthraquinone metabolite 3,anthraquinone,dimer,complex,OC1=C2C([C@@]3(O4)[C@@]5(C6=C4C(C7=O)=C(C=C6)C(C8=C7C(OC)=CC(C)=C8)=O)C(C2=O)=C(O)C[C@](O)(C)[C@@]5([H])[C@H](C)O3)=CC=C1,10.1016/j.bmc.2006.08.038,0
+AQ143,Bisanthraquinone metabolite 4,anthraquinone,dimer,complex,OC1=C2C([C@@]3(O4)[C@@]5(C6=C4C(C7=O)=C(C=C6)C(C8=C7C(OC)=CC(C)=C8)=O)C(C2=O)=C(O)C[C@](O)(C)[C@@]5(O)[C@H](C)O3)=CC=C1,10.1016/j.bmc.2006.08.038,0
+AQ144,Bisanthraquinone derivative 5,anthraquinone,dimer,complex,OC1=C2C([C@@]3(O4)[C@@]5(C6=C4C(C7=O)=C(C=C6)C(C8=C7C(O)=CC(C)=C8)=O)C(C2=O)=C(O)C=C(C)[C@@]5([H])[C@H](C)O3)=CC=C1,10.1016/j.bmc.2006.08.038,1
+AQ145,Bisanthraquinone derivative 6,anthraquinone,dimer,complex,OC1=C2C([C@@]3(O4)[C@@]5(C6=C4C(C7=O)=C(C=C6)C(C8=C7C(O)=CC(C)=C8)=O)C(C2=O)=C(O)C=C(C)[C@@]5(O)[C@H](C)O3)=CC=C1,10.1016/j.bmc.2006.08.038,1
+AQ146,Bisanthraquinone derivative 7,anthraquinone,dimer,complex,OC1=C2C([C@@]3(O4)[C@@]5(C6=C4C(C7=O)=C(C=C6)C(C8=C7C(O)=CC(C)=C8)=O)C(C2=O)=C(O)C=C([C@@]5([H])[C@H](C)O3)CO)=CC=C1,10.1016/j.bmc.2006.08.038,1
+AQ147,Bisanthraquinone derivative 8,anthraquinone,dimer,complex,OC1=C2C([C@@]3(O4)[C@@]5(C6=C4C(C7=O)=C(C=C6)C(C8=C7C(O)=CC(C)=C8)=O)C(C2=O)=C(O)C=C([C@@]5([H])[C@H](C)O3)CO)=CC=C1,10.1016/j.bmc.2006.08.038,1
+AQ148,Grincamycin I,anthraquinone,monomer,complex,O=C1[C@H](C)O[C@@H](O[C@@H]2[C@H](C)O[C@@H](O[C@H]3[C@@H](O)C[C@H](C4=CC=C5C(C(C(C=CC(C[C@@](C)(O[C@H]6CC[C@H](O[C@H]7CCC([C@H](C)O7)=O)[C@H](C)O6)C8)=C9C8=O)=C9C5=O)=O)=C4O)O[C@@H]3C)CC2)CC1,10.1055/s-0043-119888,0
+AQ149,Grincamycin J,anthraquinone,monomer,complex,O=C1[C@H](C)O[C@@H](O[C@@H]2[C@H](C)O[C@@H](O[C@H]3[C@@H](O)C[C@H](C4=CC=C5C(C(C(C=CC(C[C@@](C)(O)C6)=C7C6=O)=C7C5=O)=O)=C4O)O[C@@H]3C)CC2)CC1,10.1055/s-0043-119888,0
+AQ150,Grincamycin K,anthraquinone,monomer,complex,C[C@H]1O[C@@H](C2=CC=C3C(C(C(C=CC(C[C@@](C)(O)CC(O)=O)=C4O)=C4C3=O)=O)=C2O)C[C@H](O)[C@@H]1O[C@H]5CCC([C@H](C)O5)=O,10.1055/s-0043-119888,0
+AQ151,A-7884,anthraquinone,monomer,complex,C[C@H]1[C@@H](O[C@H]2C=CC([C@H](C)O2)=O)CC[C@H](O[C@H]3[C@@H](O)C[C@H](C4=CC=C5C(C(C(C=C[C@@](C[C@@](C)(O)C6)(O)[C@]7(O)C6=O)=C7C5=O)=O)=C4O)O[C@@H]3C)O1,10.1055/s-0043-119888,0
+AQ152,Gephyyamycin,anthraquinone,monomer,simple,O[C@H]1[C@H](O)[C@@H](C)O[C@@H](C2=C(O)C(C([C@@](CC[C@@](C[C@@]3(C)C4)(O)[C@]5(O)C4=O)(O)[C@]5(O3)C6=O)=O)=C6C=C2)C1,10.1080/14786419.2019.1660336,0
+AQ153,Cysrabelomycin,anthraquinone,monomer,simple,OC1=C(C(C(C(SC[C@H](NC(C)=O)C(O)=O)=CC2=C3C(O)=CC(C)=C2)=C3C4=O)=O)C4=CC=C1,10.1080/14786419.2019.1660336,0
+AQ154,Erythroglaucin,anthraquinone,monomer,simple,O=C1C2=C(C(O)=CC(OC)=C2)C(C3=C(O)C=C(C)C(O)=C13)=O,10.1021/np060248n,0
+AQ155,Parietin,anthraquinone,monomer,simple,O=C(C1=C2C(O)=CC(C)=C1)C3=CC(OC)=CC(O)=C3C2=O,10.1021/np060248n,0
+AQ156,7-chloro-1’-hydroxyisorhodoptilometrin,anthraquinone,monomer,simple,OC1=C(Cl)C(O)=C2C(C(C(C=C(C(C(C)O)O)C=C3O)=C3C2=O)=O)=C1,10.1080/14786419.2018.1553881,0
+XT026,"methyl (4aS,7aR,8S,15S)-8-acetoxy-1,4,12,14,16-pentahydroxy-18-methyl-13,17-dioxo-2,3,4,7,8,13,15,17-octahydro-4aH-7a,15-ethenonaphtho[2',3':4,5]cyclohepta[1,2-b]xanthene-4a-carboxylate",anthraquinone,dimer,complex,OC1=CC=CC([C@@H]([C@]23C4=C(O)[C@@H](C(C)=C3)C5=C(C=C(O[C@@]6(C(OC)=O)C(C7=O)=C(O)CCC6O)C7=C5O)C2)OC(C)=O)=C1C4=O,10.1002/chem.201600430,0
+XT027,Engyodontochone A,anthraquinone,dimer,complex,OC1=CC=CC([C@H](OC(C)=O)[C@]23C4=C(O)[C@@H](C(C)=C3)C5=C(C=C(O[C@@]6(C(OC)=O)C(C7=O)=C(O)CCC6CCC)C7=C5O)C2)=C1C4=O,10.1002/chem.201600430,0
+XT028,"methyl (1R,8aR,9S,16S,17aR)-9-acetoxy-1,4,6,13,15-pentahydroxy-18-methyl-5,14-dioxo-1,2,3,5,8,9,14,16-octahydro-17aH-8a,16-ethenonaphtho[2',3':5,6]cyclohepta[1,2-c]xanthene-17a-carboxylate",anthraquinone,dimer,complex,OC1=CC=CC([C@@H]([C@]23C4=C(O)[C@@H](C(C)=C3)C5=C6C(C(C7=C(O)CC[C@@H](O)[C@]7(C(OC)=O)O6)=O)=C(O)C=C5C2)OC(C)=O)=C1C4=O,10.1002/chem.201600430,0
+XT029,Engyodontochone B,anthraquinone,dimer,complex,OC1=CC=CC([C@@H]([C@]23C4=C(O)[C@@H](C(C)=C3)C5=C6C(C(C7=C(O)CC[C@@H](O)[C@@]7(C(OC)=O)O6)=O)=C(O)C=C5C2)OC(C)=O)=C1C4=O,10.1002/chem.201600430,0
+XT030,Engyodontochone C,anthraquinone,dimer,complex,OC1=CC=CC([C@@H]([C@]23C4=C(O)[C@@H](C(C)=C3)C5=C(C=C(O[C@@](C6OC(CC6)=O)(C(OC)=O)CC7=O)C7=C5O)C2)OC(C)=O)=C1C4=O,10.1002/chem.201600430,0
+XT032,Engyodontochone E,anthraquinone,dimer,complex,OC1=CC=CC([C@@H]([C@]23C4=C(O)[C@@H](C(C)=C3)C5=C6C(C(C[C@@](C(OC)=O)(C(CCC(O)=O)O)O6)=O)=C(O)C=C5C2)OC(C)=O)=C1C4=O,10.1002/chem.201600430,0
+XT033,Engyodontochone F,anthraquinone,dimer,complex,OC1=CC=CC([C@@H]([C@]23C4=C(O)[C@@H](C(C)=C3)C5=C6C(C(C[C@](C(OC)=O)(C(CCC(O)=O)O)O6)=O)=C(O)C=C5C2)OC(C)=O)=C1C4=O,10.1002/chem.201600430,0
+BZ001,Iso-monodictyphenone,benzophenone,monomer,simple,OC(C=CC=C1O)=C1C(C2=C(O)C(C(O)=O)=CC(C)=C2)=O,10.1016/j.phytol.2014.03.012,0
+BZ002,Pestalachloride B,benzophenone,derivative,chlorinated; prenylated,C/C(C)=C\CC1=C(O)C=C(O)C2=C1C(C3=C(O)C(Cl)=C(C)C(Cl)=C3OC2)=O,10.3390/md15030069,0
+BZ004,Monochlorsulochrin,benzophenone,monomer,chlorinated,OC1=C([H])C(C)=C(Cl)C(O)=C1C(C2=C(C(OC)=O)C=C(O)C=C2OC)=O,10.1002/cbdv.201900640,0
+BZ005,Dihydrogeodin,benzophenone,monomer,chlorinated,OC1=C(Cl)C(C)=C(Cl)C(O)=C1C(C2=C(C(OC)=O)C=C(O)C=C2OC)=O,10.1002/cbdv.201900640,0
+BZ008,"2,2',3,5-Tetrahydroxy-3'-methylbenzophenone",benzophenone,monomer,simple,O=C(C1=CC(O)=CC(C)=C1O)C2=C(O)C(O)=CC=C2,10.3390/md14120223,0
+BZ009,"2,2′,5′‐Trihydroxy‐3-methoxy-3'-methylbenzophenone",benzophenone,monomer,simple,O=C(C1=CC(O)=CC(C)=C1O)C2=C(O)C(OC)=CC=C2,10.3390/md14120223,0
+BZ010,Penibenzophenone C,benzophenone,monomer,simple,O=C(OC)C1=C(C(C2=C(O)C=C(C)C=C2OC(C)=O)=O)C(OC)=CC(O)=C1,10.1038/s41429-021-00464-9,0
+BZ011,Penibenzophenone D,benzophenone,monomer,simple,O=C(OC)C1=C(C(C2=C(O)C=C(C)C=C2OC(C)=O)=O)C(OC)=CC(OC(C)=O)=C1,10.1038/s41429-021-00464-9,0
+BZ012,Sulochrin,benzophenone,monomer,simple,O=C(OC)C1=C(C(C2=C(O)C=C(C)C=C2O)=O)C(OC)=CC(O)=C1,10.1038/s41429-021-00464-9,0
+BZ013,Hydoxysulochrin,benzophenone,monomer,simple,O=C(OC)C1=C(C(C2=C(O)C=C(CO)C=C2O)=O)C(OC)=CC(O)=C1,10.1038/s41429-021-00464-9,0
+BZ014,Pestalone,benzophenone,monomer,simple,OC(C(Cl)=C(C)C(Cl)=C1OC)=C1C(C2=C(C/C=C(C)\C)C(O)=CC(O)=C2C=O)=O,10.1021/np0102713,0
+BZ015,Penibenzophenone A,benzophenone,monomer,simple; chlorinated,O=C(OC)C1=CC(C)=CC(O)=C1C(C2=C(O)C=C(OC)C(Cl)=C2OC)=O,10.1080/14786419.2018.1460832,0
+BZ016,Penibenzophenone B,benzophenone,monomer,simple,O=C(OC)C1=CC(C)=CC(O)=C1C(C2=C(OC)C=C(OC)C=C2O)=O,10.1080/14786419.2018.1460832,0
+DP001,Tenellic acid C,diphenyl-ether,monomer,simple,OC1=C(OC2=CC=C([C@@H](OC(C)=O)CC(C)C)C(OC)=C2C(O)=O)C(C([H])=O)=CC(C)=C1,10.3390/md19080457,0
+DP002,Neospinosic Acid,diphenyl-ether,monomer,simple,OC1=C(OC2=CC=C([C@@H](OCC)CC(C)C)C(OC)=C2C(O)=O)C(C([H])=O)=CC(C)=C1,10.3390/md19080457,0
+DP003,Circinophoric acid,diphenyl-ether,monomer,simple or complex,CC1=CC(OC)=C(C(O)=O)C(OC2=C(C(OC)=O)C=C(O)C=C2OC)=C1,10.1055/s-0042-103687,0
+DP004,Diorcinol D,diphenyl-ether,monomer,prenylated,C/C(C)=C/CC1=C(OC2=CC(C)=CC(O)=C2)C=C(O)C=C1C,10.1055/a-0835-2332,0
+DP005,Diorcinol G,diphenyl-ether,monomer,prenylated,C/C(C)=C/CC1=C(OC2=CC(C)=CC(O)=C2)C=C(C)C(C/C=C(C)/C)=C1O,10.1055/a-0835-2332,0
+DP006,Diorcinol I,diphenyl-ether,monomer,prenylated,C/C(C)=C/CC1=C(OC2=CC(C)=CC(O)=C2)C=C(C)C=C1O,10.1055/a-0835-2332,0
+DP007,Pseudogymnoascin A,diphenyl-ether,monomer,simple,OC1=CC(C)=CC(OC2=C(C=C(O)C([N+]([O-])=O)=C2C(OC)=O)OC)=C1C(OCC(C)C(OC)=O)=O,10.1021/np500906k,0
+DP008,Pseudogymnoascin B,diphenyl-ether,monomer,simple,OC1=CC(C)=CC(OC2=C(C=C(O)C([N+]([O-])=O)=C2C(OC)=O)OC)=C1C(OCC(C)C(O)=O)=O,10.1021/np500906k,0
+DP009,Pseudogymnoascin C,diphenyl-ether,monomer,simple,OC1=CC(C)=CC(OC2=C(C=C(O)C([N+]([O-])=O)=C2C(OC)=O)OC)=C1C(OC(C)C(O)=O)=O,10.1021/np500906k,0
+DP010,3-Nitroasterric acid,diphenyl-ether,monomer,simple,OC1=CC(C)=CC(OC2=C(C=C(O)C([N+]([O-])=O)=C2C(OC)=O)OC)=C1C(O)=O,10.1021/np500906k,0
+DP011,Penikellide A,diphenyl-ether,monomer,simple,CC(C)/C=C/C1=CC=C(OC2=C(O)C=C(C)C=C2CO)C(C(O)=O)=C1OC,10.1016/j.phytol.2014.03.012,0
+DP012,Penikellide B,diphenyl-ether,monomer,simple,CC(CC(C1=CC=C(OC2=C(O)C=C(C)C=C2COC(C)=O)C(C(O)=O)=C1OC)OC)C,10.1016/j.phytol.2014.03.012,0
+DP013,"2,3,5-tribromo-6-(3,5-dibromo-2-methoxyphenoxy)phenol",diphenyl-ether,monomer,polybrominated,BrC1=C(C(OC2=C(O)C(Br)=C(Br)C=C2Br)=CC(Br)=C1)OC,10.1007/s00044-015-1386-9,0
+DP014,"2,3,4,5-tetrabromo-6-(3,5-dibromo-2-hydroxyphenoxy)phenol",diphenyl-ether,monomer,polybrominated,OC1=C(Br)C=C(Br)C=C1OC2=C(O)C(Br)=C(Br)C(Br)=C2Br,10.1007/s00044-015-1386-9,0
+DP015,"2-(2-acetoxy-3,4,5,6-tetrabromophenoxy)-4,6-dibromophenyl acetate",diphenyl-ether,monomer,polybrominated,BrC1=C(C(OC2=C(C(Br)=C(Br)C(Br)=C2Br)OC(C)=O)=CC(Br)=C1)OC(C)=O,10.1007/s00044-015-1386-9,1
+DP016,"2,3,5-tribromo-6-(3,5-dibromo-2-hydroxyphenoxy)phenol",diphenyl-ether,monomer,polybrominated,OC1=C(Br)C=C(Br)C=C1OC2=C(O)C(Br)=C(Br)C=C2Br,10.1007/s00044-015-1386-9,0
+DP017,"2,3,4-tribromo-6-(3,5-dibromo-2-hydroxyphenoxy)phenol",diphenyl-ether,monomer,polybrominated,OC1=C(Br)C=C(Br)C=C1OC2=C(O)C(Br)=C(Br)C(Br)=C2,10.1007/s00044-015-1386-9,0
+DP018,"3,5-dibromo-2-(2,4-dibromophenoxy)phenol",diphenyl-ether,monomer,polybrominated,OC1=CC(Br)=CC(Br)=C1OC2=C(Br)C=C(Br)C=C2,10.1021/np070244y,0
+DP019,Diorcinol L,diphenyl-ether,monomer,prenylated,CC1=CC(O)=CC(OC2=CC(O)=CC(C)=C2C/C=C(C(O)=O)\C)=C1,10.3390/molecules23092368,0
+DP020,(R)-diorcinol B,diphenyl-ether,monomer,simple,CC1=CC(O)=CC(OC2=CC(O)=CC(C)=C2C[C@@H](O)C(C)(O)C)=C1,10.3390/molecules23092368,0
+DP021,(S)-diorcinol B,diphenyl-ether,monomer,simple,CC1=CC(O)=CC(OC2=CC(O)=CC(C)=C2C[C@H](O)C(C)(O)C)=C1,10.3390/molecules23092368,0
+DP022,9-acetyldiorcinol B,diphenyl-ether,monomer,simple,CC1=CC(O)=CC(OC2=CC(O)=CC(C)=C2C[C@H](OC(C)=O)C(C)(O)C)=C1,10.3390/molecules23092368,0
+DP023,Diorcinol C,diphenyl-ether,monomer,simple,CC1=CC(O)=CC(OC2=CC(O)=CC(C)=C2C[C@H](O)C(C)(OC)C)=C1,10.3390/molecules23092368,0
+DP024,Diorcinol E,diphenyl-ether,monomer,simple,CC1=CC(O)=CC(OC2=CC(O)=CC(C)=C2CC(C(C)C)=O)=C1,10.3390/molecules23092368,0
+DP025,Diorcinol J,diphenyl-ether,monomer,simple,CC1=CC(O)=CC(OC2=CC(O)=CC(C)=C2C[C@H](O)C(C)=C)=C1,10.3390/molecules23092368,0
+DP026,"3-((2-(2-hydroxypropan-2-yl)-6-methyl-2,3-dihydrobenzofuran-4-yl)oxy)-5-methylphenol",diphenyl-ether,monomer,o-heterocyclic,CC1=CC(O)=CC(OC2=C3CC(C(C)(O)C)OC3=CC(C)=C2)=C1,10.3390/molecules23092368,0
+DP027,diorcinol K,diphenyl-ether,monomer,prenylated,OC1=C(C/C=C(C)/C)C(OC2=CC(O)=CC(C)=C2)=C(C/C=C(C)/C)C(C)=C1,10.1080/14786419.2017.1363754,0
+DP028,diorcinol F,diphenyl-ether,monomer,simple,OC1=CC(C)=CC(OC2=C(O)C=C(C)C=C2O)=C1OC,10.1080/14786419.2017.1363754,0
+DP029,Tribromoiododiphenyl ether,diphenyl-ether,monomer,polyhalogenated,IC1=C(O)C(OC2=C(Br)C=C(Br)C=C2)=C(Br)C([H])=C1[H],10.1002/cbdv.201800593,0
+DP030,"2-(2',4'-dibromophenoxy)-4,6-dibromophenol",diphenyl-ether,monomer,polybrominated,BrC1=C(OC2=C([H])C(Br)=C([H])C(Br)=C2O)C=CC(Br)=C1,10.1002/cbdv.201800593,0
+DP031,"2-(4'-bromophenoxy)-3,5-dibromophenol",diphenyl-ether,monomer,polybrominated,[H]C1=C(C=CC(Br)=C1)OC2=C(O)C([H])=C(Br)C([H])=C2Br,10.1002/cbdv.201800593,0
+DP032,"5-bromo-2-(2',4'-dibromophenoxy) phenol",diphenyl-ether,monomer,polybrominated,BrC1=C(C=CC(Br)=C1)OC2=C(C([H])=C(C([H])=C2[H])Br)O,10.1002/cbdv.201800593,0
+DP033,"2-(2',4'-dibromophenoxy)-5,6-dibromo-3-chlorophenol",diphenyl-ether,monomer,polybrominated; chlorinated,BrC1=C(OC2=C(Cl)C([H])=C(Br)C(Br)=C2O)C=CC(Br)=C1,10.1002/cbdv.201800593,0
+DP035,"2-(2',4'-dibromophenoxy)-3,5,6-tribromophenol",diphenyl-ether,monomer,polybrominated,BrC1=C(OC2=C(Br)C([H])=C(Br)C(Br)=C2O)C=CC(Br)=C1,10.1002/cbdv.201800593,0
+DP036,"3,6-dibromo-2-(2',4'-dibromophenoxy) phenol",diphenyl-ether,monomer,polybrominated,BrC1=C(OC2=C(Br)C([H])=C([H])C(Br)=C2O)C=CC(Br)=C1,10.1002/cbdv.201800593,0
+DP037,"2-(2',4'-dibromophenoxy)-4,6-dibromoanisole",diphenyl-ether,monomer,polybrominated,BrC1=C(OC2=C([H])C(Br)=C([H])C(Br)=C2OC)C=CC(Br)=C1,10.1002/cbdv.201800593,0
+DP038,"2-(2',4'-dibromophenoxy)-3,4,5-tribromophenol",diphenyl-ether,monomer,polybrominated,BrC1=C(OC2=C(Br)C(Br)=C(Br)C([H])=C2O)C=CC(Br)=C1,10.1016/j.bmcl.2015.03.057,0
+DP039,"2,5-dibromo-6-(3′,5′-dibromo-2′-hydroxyphenoxy)phenol",diphenyl-ether,monomer,polybrominated,OC1=C(OC2=CC(Br)=CC(Br)=C2O)C(Br)=CC=C1Br,10.1021/np0605081,0
+DP040,"2,4,5-tribromo-6-(5′-bromo-2′-hydroxyphenoxy)phenol",diphenyl-ether,monomer,polybrominated,OC1=C(OC2=CC(Br)=CC([H])=C2O)C(Br)=C(Br)C=C1Br,10.1021/np0605081,0
+DP041,"2,4,5-tribromo-6-(3′,5′- dibromo-2′-hydroxyphenoxy)anisole",diphenyl-ether,monomer,polybrominated,BrC1=C(O)C(OC(C(Br)=C(Br)C=C2Br)=C2OC)=CC(Br)=C1,10.1021/np0605081,0
+DP042,"2,3,4,5-tetrabromo-6-(3,5-dibromo-2-methoxyphenoxy)phenol",diphenyl-ether,monomer,polybrominated,OC1=C(OC2=CC(Br)=CC(Br)=C2OC)C(Br)=C(Br)C(Br)=C1Br,10.1021/np0605081,0
+DP043,"3,4-dibromo-2-(5-bromo-2-hydroxyphenoxy)phenol",diphenyl-ether,monomer,polybrominated,OC1=C(OC2=CC(Br)=CC([H])=C2O)C(Br)=C(Br)C=C1[H],10.1021/np0605081,0
+DP045,"1,5-dibromo-2-(3,5-dibromo-2-methoxyphenoxy)-3-methoxybenzene",diphenyl-ether,monomer,polybrominated,BrC(C=C(Br)C=C1OC(C(Br)=C([H])C(Br)=C2[H])=C2OC)=C1OC,10.1021/np0605081,0
+DP046,"1,2,3-tribromo-4-(3,5-dibromo-2-methoxyphenoxy)-5-methoxybenzene",diphenyl-ether,monomer,polybrominated,BrC(C=C(Br)C=C1OC(C(Br)=C(Br)C(Br)=C2[H])=C2OC)=C1OC,10.1021/np0605081,0
+DP047,"2,4-dibromo-6-(3,4,6-tribromo-2-methoxyphenoxy)phenol",diphenyl-ether,monomer,polybrominated,BrC1=C(O)C(OC(C(Br)=C([H])C(Br)=C2Br)=C2OC)=CC(Br)=C1,10.1021/np0605081,0
+DP048,"2,4-dibromo-6-(2,3,4-tribromo-6-methoxyphenoxy)phenol",diphenyl-ether,monomer,polybrominated,BrC1=C(O)C(OC(C(Br)=C(Br)C(Br)=C2[H])=C2OC)=CC(Br)=C1,10.1021/np0605081,0
+DP049,"3,4,5-tribromo-2-(3,5-dibromo-2-methoxyphenoxy)phenol",diphenyl-ether,monomer,polybrominated,BrC(C=C(Br)C=C1OC2=C(O)C([H])=C(Br)C(Br)=C2Br)=C1OC,10.1021/np0605081,0
+DP050,"1,2,5-tribromo-4-(3,5-dibromo-2-methoxyphenoxy)-3-methoxybenzene",diphenyl-ether,monomer,polybrominated,BrC(C=C(Br)C=C1OC(C(Br)=C([H])C(Br)=C2Br)=C2OC)=C1OC,10.1021/np0605081,1
+DP051,"1,4-dibromo-2-(3,5-dibromo-2-methoxyphenoxy)-3-methoxybenzene",diphenyl-ether,monomer,polybrominated,BrC(C=C(Br)C=C1OC(C(Br)=CC=C2Br)=C2OC)=C1OC,10.1021/np0605081,1
+DP052,"1,2,5-tribromo-3-(5-bromo-2-methoxyphenoxy)-4-methoxybenzene",diphenyl-ether,monomer,polybrominated,[H]C(C=C(Br)C=C1OC(C(Br)=C(Br)C=C2Br)=C2OC)=C1OC,10.1021/np0605081,1
+DP053,"1,2,3,4-tetrabromo-5-(3,5-dibromo-2-methoxyphenoxy)-6-methoxybenzene",diphenyl-ether,monomer,polybrominated,BrC(C=C(Br)C=C1OC(C(Br)=C(Br)C(Br)=C2Br)=C2OC)=C1OC,10.1021/np0605081,1
+DP054,"2,4-dibromo-6-(2,3,4,5-tetrabromo-6-methoxyphenoxy)phenol",diphenyl-ether,monomer,polybrominated,BrC1=C(O)C(OC(C(Br)=C(Br)C(Br)=C2Br)=C2OC)=CC(Br)=C1,10.1021/np0605081,1
+DP055,"1,2-dibromo-3-(5-bromo-2-methoxyphenoxy)-4-methoxybenzene hydrobromide",diphenyl-ether,monomer,polybrominated,[H]C(C=C(Br)C=C1OC(C(Br)=C(Br)C=C2[H])=C2OC)=C1OC,10.1021/np0605081,1
+DP056,"3,4,5-tribromo-2-(3,5-dibromo-2-hydroxyphenoxy)phenol",diphenyl-ether,monomer,polybrominated,BrC1=C(O)C(OC2=C(O)C([H])=C(Br)C(Br)=C2Br)=CC(Br)=C1,10.1021/np0605081,1
+DP057,"2,3,4-tribromo-6-(3-bromo-2-hydroxyphenoxy)phenol",diphenyl-ether,monomer,polybrominated,BrC1=C(O)C(OC2=C(O)C(Br)=C(Br)C(Br)=C2[H])=CC=C1,10.1021/np0605081,1
+DP058,"3,5-dibromo-2-(3,5-dibromo-2-hydroxyphenoxy)phenol",diphenyl-ether,monomer,polybrominated,BrC1=C(O)C(OC2=C(O)C([H])=C(Br)C([H])=C2Br)=CC(Br)=C1,10.1021/np0605081,1
+DP059,"2,4-dibromo-6-(4-bromo-2-hydroxyphenoxy)phenol",diphenyl-ether,monomer,polybrominated,BrC1=C(O)C(OC2=C(O)C([H])=C(Br)C([H])=C2[H])=CC(Br)=C1,10.1021/np0605081,1
+DP061,"2,4-dibromo-6-(5-bromo-2-hydroxyphenoxy)phenol",diphenyl-ether,monomer,polybrominated,BrC1=C(O)C(OC2=C(O)C([H])=C([H])C(Br)=C2[H])=CC(Br)=C1,10.1021/np0605081,1
+DP062,"2,3,4,5-tetrabromo-6-(2-bromophenoxy)phenol",diphenyl-ether,monomer,polybrominated,OC1=C(Br)C(Br)=C(Br)C(Br)=C1OC2=C(Br)C=CC=C2,10.1021/np970271w,0
+DP063,"3,4,5-tribromo-2-(2'-bromophenoxy)phenol",diphenyl-ether,monomer,polybrominated,OC1=CC(Br)=C(Br)C(Br)=C1OC2=C(Br)C=CC=C2,10.1021/np970271w,0
+DP064,"3,5,6-tribromo-2-(2'-bromophenoxy)-phenol",diphenyl-ether,monomer,polybrominated,OC1=C(Br)C(Br)=CC(Br)=C1OC2=C(Br)C=CC=C2,10.1021/np970271w,0
+DP065,"3,4,6-tribromo-2-(2'-bromophenoxy)phenol",diphenyl-ether,monomer,polybrominated,OC1=C(Br)C=C(Br)C(Br)=C1OC2=C(Br)C=CC=C2,10.1021/np970271w,0
+DP066,"3,5,6-Tribromo-1-(2'-bromophenoxy)-2-benzene methyl ether",diphenyl-ether,monomer,polybrominated,BrC(C(Br)=CC(Br)=C1OC)=C1OC2=C(Br)C=CC=C2,10.1021/np970271w,0
+DP067,"2,3,4,5-tetrabromo-6-(2,4-dibromophenoxy)phenol",diphenyl-ether,monomer,polybrominated,OC1=C(Br)C(Br)=C(Br)C(Br)=C1OC2=C(Br)C=C(Br)C=C2,10.1021/np970271w,0
+DP068,"2,4-dibromo-6-(2,4-dibromophenoxy)phenol",diphenyl-ether,monomer,polybrominated,BrC1=CC=C(OC2=CC(Br)=CC(Br)=C2O)C(Br)=C1,10.1021/np970271w,0
+DP069,"Δ1′,3′ -1′-dehydroxypenicillide",diphenyl-ether,derivative,o-heterocyclic,CC1=CC(CO2)=C(C(O)=C1)OC3=CC=C(/C=C/C(C)=C)C(OC)=C3C2=O,10.1021/np300377b,0
+DP070,7-O-acetylsecopenicillide C,diphenyl-ether,monomer,prenylated,OC1=C(C/C=C(C)/C)C=CC(OC2=C(O)C=C(C)C=C2COC(C)=O)=C1C(O)=O,10.1021/np300377b,0
+DP071,Hydroxytenellic acid B,diphenyl-ether,monomer,simple,CC(C)C[C@H](O)C(C=CC(OC1=C(O)C=C(C)C=C1CO)=C2C(O)=O)=C2OC,10.1021/np300377b,0
+DP072,6-[2-hydroxy-6-(hydroxymethyl)-4-methylphenoxy]-2-methoxy-3-(1-methoxy-3-methylbutyl)benzoic acid,diphenyl-ether,monomer,simple,CC(C)C[C@H](OC)C(C=CC(OC1=C(O)C=C(C)C=C1CO)=C2C(O)=O)=C2OC,10.1021/np300377b,0
+DP074,Tenellic acid B,diphenyl-ether,monomer,simple,OC1=CC(C)=CC(C=O)=C1OC(C=CC(C(O)CC(C)C)=C2OC)=C2C(O)=O,10.1021/np980496m,0
+DP075,"3,4,5,6-tetrabromo-2-(2',4'-dibromophenoxy)phenol",diphenyl-ether,monomer,polybrominated,OC1=C(Br)C(Br)=C(Br)C(Br)=C1OC2=C(Br)C=C(Br)C=C2,10.3390/md19110611,0
+DP076,Cordyol E,diphenyl-ether,monomer,simple,CC1=C([H])C(OC)=CC(OC2=C([H])C(O)=CC(C)=C2)=C1,10.1016/j.phytol.2016.10.015,0
+DP077,Cordyol C,diphenyl-ether,monomer,simple,CC1=C([H])C(O)=CC(OC2=C(O)C(O)=CC(C)=C2)=C1,10.1016/j.phytol.2016.10.015,0
+DP078,4-methoxycarbonyldiorcinol,diphenyl-ether,monomer,simple,CC(C=C(OC1=C([H])C(O)=CC(C)=C1)C=C2O)=C2C(OC)=O,10.1016/j.phytol.2016.10.015,0
+DP079,Pseudopithoether A,diphenyl-ether,monomer,simple,OC1=CC(OC2=C(C(OC)=O)C(C)=CC(O)=C2)=C([H])C(C)=C1,10.1080/14786419.2021.1915309,0
+DP080,Pseudopithoether B,diphenyl-ether,monomer,simple,OC1=CC(OC2=C(C(OC)=O)C(C)=CC(O)=C2)=C(C(C)=C1)C(O)=O,10.1080/14786419.2021.1915309,0
+DP081,Methyl diorcinol-4-carboxylate,diphenyl-ether,monomer,simple,CC1=CC(OC2=CC(C)=CC(O)=C2)=CC(O)=C1C(OC)=O,10.3390/md17010006,0
+DP082,Diorcinolic acid,diphenyl-ether,monomer,simple,[H]C1=C(O)C(C(O)=O)=C(C)C([H])=C1OC2=C([H])C(O)=CC(C)=C2C(O)=O,10.1080/14786419.2017.1289205,0
+DP083,4-carboxydiorcinal,diphenyl-ether,monomer,simple,[H]C1=C(O)C(C(O)=O)=C(C)C([H])=C1OC2=C([H])C(O)=CC(C)=C2[H],10.1080/14786419.2017.1289205,0
+DP084,Violaceol II,diphenyl-ether,monomer,simple,CC1=CC(O)=C(OC2=C(O)C(O)=CC(C)=C2)C(O)=C1,10.1080/14786419.2017.1289205,0
+DP085,Violaceol I,diphenyl-ether,monomer,simple,[H]C1=C(C)C([H])=C(OC2=C(O)C(O)=CC(C)=C2[H])C(O)=C1O,10.1080/14786419.2017.1289205,0
+DP086,Peniciaculin A,diphenyl-ether,dimer,complex,CC1=CC(OC2=CC(OCC3=CC(O)=C([C@@](C)(O)CCCC(C)C)C=C3)=CC(C)=C2)=CC(O)=C1,10.1021/acs.jnatprod.5b00004,0
+DP087,Crossbyanol A,diphenyl-ether,dimer,complex; brominated,BrC1=C(OC2=C(OC3=CC=C(Br)C=C3Br)C=C(OC4=CC(Br)=C(O[H])C=C4)C=C2Br)C=CC(O[H])=C1OC5=CC=C(Br)C=C5Br,10.1021/np900661g,0
+DP088,Crossbyanol B,diphenyl-ether,dimer,complex; brominated,BrC1=C(OC2=C(OC3=CC=C(Br)C=C3Br)C=C(OC4=CC(Br)=C(OS(=O)(O)=O)C=C4)C=C2Br)C=CC(OS(=O)(O)=O)=C1OC5=CC=C(Br)C=C5Br,10.1021/np900661g,0
+DP089,Crossbyanol C,diphenyl-ether,dimer,complex; brominated,BrC1=C(OC2=C(OC3=CC=C(Br)C=C3Br)C=C(OC4=CC(Br)=C(O[H])C=C4)C=C2Br)C=CC(OS(=O)(O)=O)=C1OC5=CC=C(Br)C=C5Br,10.1021/np900661g,0
+DP090,Crossbyanol D,diphenyl-ether,dimer,complex; brominated,BrC1=C(OC2=C(OC3=CC=C(Br)C=C3Br)C=C(OC4=CC(Br)=C(OS(=O)(O)=O)C=C4)C=C2Br)C=CC(O[H])=C1OC5=CC=C(Br)C=C5Br,10.1021/np900661g,0
+DP092,4’-chloroasterric acid,diphenyl-ether,monomer,chlorinated,O=C(O)C1=C(O)C(Cl)=C(C)C([H])=C1OC2=C(C(O)=O)C=C(O)C=C2OC,10.1002/cbdv.201900640,0
+DP093,Methyl chloroasterrate,diphenyl-ether,monomer,chlorinated,O=C(O)C1=C(O)C(Cl)=C(C)C([H])=C1OC2=C(C(OC)=O)C=C(O)C=C2OC,10.1002/cbdv.201900640,0
+DP094,Penicillither,diphenyl-ether,monomer,chlorinated,O=C(C1=C(O)C([H])=C(C)C(Cl)=C1OC2=C(C(OC)=O)C=C(O)C=C2OC)OC,10.1002/cbdv.201900640,0
+DP095,Iizukine A,diphenyl-ether,monomer,chlorinated,O=C(C1=C(O)C(Cl)=C(C)C([H])=C1OC2=C(C(O)=O)C=C(O)C=C2OC)OC,10.1002/cbdv.201900640,0
+DP096,Asterric acid,diphenyl-ether,monomer,simple,O=C(O)C1=C(O)C([H])=C(C)C([H])=C1OC2=C(C(OC)=O)C=C(O)C=C2OC,10.1002/cbdv.201900640,0
+DP097,Monomethylosoic acid,diphenyl-ether,monomer,simple,O=C(O)C1=C(O)C([H])=C(C)C([H])=C1OC2=C(C(O)=O)C=C(O)C=C2OC,10.1002/cbdv.201900640,0
+DP098,"Butyl 2,4-dichloroasterrate",diphenyl-ether,monomer,chlorinated,O=C(OCCCC)C1=C(O)C(Cl)=C(C)C(Cl)=C1OC2=C(C(OC)=O)C=C(O)C=C2OC,10.1002/cbdv.201900640,0
+DP099,"2,4-dichloroasterric acid",diphenyl-ether,monomer,chlorinated,O=C(O)C1=C(O)C(Cl)=C(C)C(Cl)=C1OC2=C(C(OC)=O)C=C(O)C=C2OC,10.1002/cbdv.201900640,0
+DP100,Methyl dichloroasterrate,diphenyl-ether,monomer,chlorinated,O=C(C1=C(O)C(Cl)=C(C)C(Cl)=C1OC2=C(C(OC)=O)C=C(O)C=C2OC)OC,10.1002/cbdv.201900640,0
+DP101,Geodin hydrate,diphenyl-ether,monomer,chlorinated,O=C(C1=C(O)C(Cl)=C(C)C(Cl)=C1OC2=C(C(O)=O)C=C(O)C=C2OC)OC,10.1002/cbdv.201900640,0
+XT018,Yicathin C,xanthone,monomer,simple,O=C1C2=C(C=C(C)C=C2O)OC3=CC(C(O)=O)=CC(OC)=C31,10.1002/mrc.3903,0
+XT019,Yicathin B,xanthone,monomer,simple,O=C1C2=C(C=C(C)C=C2O)OC3=CC(C(OC)=O)=CC(OC)=C31,10.1002/mrc.3903,0
+XT021,Aloesone,xanthone,derivative,simple,O=C1C=C(CC(C)=O)OC2=C1C(C)=CC(O)=C2,10.1007/s12272-012-0309-2,0
+XT022,2-(2'S-Hydroxypropyl)-5-methyl-7-hydroxychromone,xanthone,derivative,simple,O=C1C=C(C[C@@H](O)C)OC2=C1C(C)=CC(O)=C2,10.1007/s12272-012-0309-2,0
+XT023,Oxisterigmatocystin I,xanthone,monomer,o-heterocyclic,OC1=C(C(C(C(OC)=CC2=C3[C@@]4(C)[C@@](O[C@H](OC)C4)(C)O2)=C3O5)=O)C5=CC=C1,10.1016/j.phytol.2018.06.009,0
+XT024,Oxisterigmatocystin C,xanthone,monomer,o-heterocyclic,OC1=C(C(C(C(OC)=CC2=C3[C@@]4([H])[C@@](O[C@@H](OC)C4)([H])O2)=C3O5)=O)C5=C([H])C=C1,10.1038/ja.2010.154,0
+XT025,Aspergilluone A,xanthone,derivative,simple,OC1=C2C(O[C@](CC[C@H]3O)([H])[C@]3([H])C2=O)=CC(C)=C1,10.1016/j.fitote.2021.105004,0
+XT026,"methyl (4aS,7aR,8S,15S)-8-acetoxy-1,4,12,14,16-pentahydroxy-18-methyl-13,17-dioxo-2,3,4,7,8,13,15,17-octahydro-4aH-7a,15-ethenonaphtho[2',3':4,5]cyclohepta[1,2-b]xanthene-4a-carboxylate",xanthone,dimer,complex,OC1=CC=CC([C@@H]([C@]23C4=C(O)[C@@H](C(C)=C3)C5=C(C=C(O[C@@]6(C(OC)=O)C(C7=O)=C(O)CCC6O)C7=C5O)C2)OC(C)=O)=C1C4=O,10.1002/chem.201600430,0
+XT027,Engyodontochone A,xanthone,dimer,complex,OC1=CC=CC([C@H](OC(C)=O)[C@]23C4=C(O)[C@@H](C(C)=C3)C5=C(C=C(O[C@@]6(C(OC)=O)C(C7=O)=C(O)CCC6CCC)C7=C5O)C2)=C1C4=O,10.1002/chem.201600430,0
+XT028,"methyl (1R,8aR,9S,16S,17aR)-9-acetoxy-1,4,6,13,15-pentahydroxy-18-methyl-5,14-dioxo-1,2,3,5,8,9,14,16-octahydro-17aH-8a,16-ethenonaphtho[2',3':5,6]cyclohepta[1,2-c]xanthene-17a-carboxylate",xanthone,dimer,complex,OC1=CC=CC([C@@H]([C@]23C4=C(O)[C@@H](C(C)=C3)C5=C6C(C(C7=C(O)CC[C@@H](O)[C@]7(C(OC)=O)O6)=O)=C(O)C=C5C2)OC(C)=O)=C1C4=O,10.1002/chem.201600430,0
+XT029,Engyodontochone B,xanthone,dimer,complex,OC1=CC=CC([C@@H]([C@]23C4=C(O)[C@@H](C(C)=C3)C5=C6C(C(C7=C(O)CC[C@@H](O)[C@@]7(C(OC)=O)O6)=O)=C(O)C=C5C2)OC(C)=O)=C1C4=O,10.1002/chem.201600430,0
+XT030,Engyodontochone C,xanthone,derivative,complex,OC1=CC=CC([C@@H]([C@]23C4=C(O)[C@@H](C(C)=C3)C5=C(C=C(O[C@@](C6OC(CC6)=O)(C(OC)=O)CC7=O)C7=C5O)C2)OC(C)=O)=C1C4=O,10.1002/chem.201600430,0
+XT032,Engyodontochone E,xanthone,derivative,complex,OC1=CC=CC([C@@H]([C@]23C4=C(O)[C@@H](C(C)=C3)C5=C6C(C(C[C@@](C(OC)=O)(C(CCC(O)=O)O)O6)=O)=C(O)C=C5C2)OC(C)=O)=C1C4=O,10.1002/chem.201600430,0
+XT033,Engyodontochone F,xanthone,derivative,complex,OC1=CC=CC([C@@H]([C@]23C4=C(O)[C@@H](C(C)=C3)C5=C6C(C(C[C@](C(OC)=O)(C(CCC(O)=O)O)O6)=O)=C(O)C=C5C2)OC(C)=O)=C1C4=O,10.1002/chem.201600430,0
+XT034,Penicillixanthone A,xanthone,dimer,complex,OC(C[C@H](C)[C@H]1O)=C2[C@]1(OC3=CC=C(C4=C(O[C@]5(C(C6=O)=C(O)C[C@@H](C)[C@@H]5O)C(OC)=O)C6=C(O)C=C4)C(O)=C3C2=O)C(OC)=O,10.1038/ja.2012.110,0
+XT035,Pseudopithoxanthone,xanthone,monomer,simple,OC1=C(C(C2=C(O3)C=C(C)C(OC)=C2CO)=O)C3=CC=C1,10.1080/14786419.2021.1915309,0
+XT036,13-O-acetylsydowinin B,xanthone,monomer,simple,OC1=CC=C(OC(C=C(COC(C)=O)C=C2O)=C2C3=O)C3=C1C(OC)=O,10.1080/14786419.2017.1289205,0
+XT037,"Methyl-(2-chloro-1,6-dihydroxy-3-methylxanthone)-8-carboxylate",xanthone,monomer,simple,OC(C=C1C(OC)=O)=CC2=C1C(C3=C(O)C(Cl)=C(C)C([H])=C3O2)=O,10.1002/cbdv.201900640,0
+XT038,"Methyl-(4-chloro-1,6-dihydroxy-3-methylxanthone)-8-carboxylate",xanthone,monomer,simple,OC(C=C1C(OC)=O)=CC2=C1C(C3=C(O)C([H])=C(C)C(Cl)=C3O2)=O,10.1002/cbdv.201900640,0
+XT039,"1,4,7-Trihydroxy-6-methylxanthone",xanthone,monomer,simple,O=C1C2=C(C(O)=CC=C2O)OC3=CC(C)=C(O)C=C31,10.3390/md14120223,0
+XT040,"1,4,5-Trihydroxy-2-methylxanthone",xanthone,monomer,simple,O=C1C2=C(C(O)=CC(C)=C2O)OC3=C(O)C=CC=C31,10.3390/md14120223,0
+XT081,Sterigmatocystin,xanthone,monomer,o-heterocyclic,[H][C@]([C@]1(O2)[H])(C=CO1)C(C3=C4C(C5=C(O)C=CC=C5O3)=O)=C2C=C4OC,10.1016/j.fitote.2018.11.015,0
+XT170,Variecoxanthone A,xanthone,monomer,prenylated,O=C1C2=C(C=C(C)C(OC/C=C(C)/C)=C2CO)OC3=CC=CC(O)=C31,10.1016/j.fitote.2018.11.015,0
+XT241,5-methoxysterigmatocystin,xanthone,monomer,o-heterocyclic,OC(C1=C2OC3=C4C(O[C@@]5([H])[C@]4([H])C=CO5)=CC(OC)=C3C1=O)=CC=C2OC,10.1007/s10600-020-03203-y,0
+XT886,Arugosin C,xanthone,derivative,prenylated,O=C1C2=C(O)C=C(C)C3=C2C(C(C(C)(O)C)CO3)OC4=CC=C(C/C=C(C)\C)C(O)=C14,10.1007/s12272-012-1006-x,0

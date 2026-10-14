@@ -1,0 +1,253 @@
+ID,DOI_Source,Fungi_Genus,Fungi_Specie,Bacteria_Genus,Bacteria_Specie,Sponge_Genus,Sponge_Species,Strain,Semi_synthetic,Marine_Association,Associated_Specie,Sea,Region,Country
+AQ001,10.1016/j.fitote.2018.11.015,Aspergillus,versicolor,,,,,,,clam,marine clam,East China Sea,,China
+AQ002,10.1016/j.fitote.2018.11.015,Aspergillus,versicolor,,,,,,,clam,marine clam,East China Sea,,China
+AQ003,10.1016/j.fitote.2018.11.015,Aspergillus,versicolor,,,,,,,clam,marine clam,East China Sea,,China
+AQ003,10.1007/s10600-020-03203-y,Aspergillus,versicolor,,,,,HBU-2017-7,,,,Bohai Sea,,China
+AQ004,10.1016/j.fitote.2018.11.015,Aspergillus,versicolor,,,,,,,clam,marine clam,East China Sea,,China
+AQ005,10.1016/j.fitote.2018.11.015,Aspergillus,versicolor,,,,,,,clam,marine clam,East China Sea,,China
+AQ006,10.1515/znb-2006-1122,,,Streptomyces,sp.,,,B8000,,sediment,,Laguna de Terminos,Gulf of Mexico,Mexico
+AQ007,10.1515/znb-2006-1122,,,,,,,,AQ006,,,,,
+AQ008,10.1515/znb-2006-1122,,,,,,,,AQ006,,,,,
+AQ009,10.1515/znb-2006-1122,,,Streptomyces,sp.,,,B8000,,sediment,,Laguna de Terminos,Gulf of Mexico,Mexico
+AQ010,10.1515/znb-2006-1122,,,,,,,,AQ009,,,,,
+AQ011,10.1515/znb-2006-1122,,,Streptomyces,sp.,,,B8000,,sediment,,Laguna de Terminos,Gulf of Mexico,Mexico
+AQ012,10.1515/znb-2006-1122,,,,,,,,AQ011,,,,,
+AQ014,10.3390/md17060334,Sporendonema,casei,,,,,HDN16-802,,sediment,,,"Zhangzi Island, Dalian, Liaoning Province",China
+AQ015,10.3390/md17060334,Sporendonema,casei,,,,,HDN16-802,,sediment,,,"Zhangzi Island, Dalian, Liaoning Province",China
+AQ016,10.3390/md17060334,Sporendonema,casei,,,,,HDN16-802,,sediment,,,"Zhangzi Island, Dalian, Liaoning Province",China
+AQ017,10.3390/md17060334,Sporendonema,casei,,,,,HDN16-802,,sediment,,,"Zhangzi Island, Dalian, Liaoning Province",China
+AQ018,10.3390/md17060334,Sporendonema,casei,,,,,HDN16-802,,sediment,,,"Zhangzi Island, Dalian, Liaoning Province",China
+AQ019,10.3390/md17060334,Sporendonema,casei,,,,,HDN16-802,,sediment,,,"Zhangzi Island, Dalian, Liaoning Province",China
+AQ020,10.3390/md17060334,Sporendonema,casei,,,,,HDN16-802,,sediment,,,"Zhangzi Island, Dalian, Liaoning Province",China
+AQ021,10.1007/s11274-007-9477-5,,,Streptomyces,sp.,,,M097,,,,,Jiaozhou Bay,China
+AQ022,10.1007/s10600-020-02956-w,Trichoderma,sp.,,,,,,,sea cucumber,,Yellow Sea,"Chengshantou Island, Weihai City",China
+AQ023,10.1271/bbb.120047,Aspergillus,versicolor,,,,,EN-7,,alga,Sargassum thunbergii,,Qingdao coastline of Shandong Province,China
+AQ024,10.1271/bbb.120047,Aspergillus,versicolor,,,,,EN-7,,alga,Sargassum thunbergii,,Qingdao coastline of Shandong Province,China
+AQ025,10.1271/bbb.120047,Aspergillus,versicolor,,,,,EN-7,,alga,Sargassum thunbergii,,Qingdao coastline of Shandong Province,China
+AQ025,10.1007/s10600-020-03203-y,Aspergillus,versicolor,,,,,HBU-2017-7,,,,Bohai Sea,,
+AQ026,10.1271/bbb.120047,Aspergillus,versicolor,,,,,EN-7,,alga,Sargassum thunbergii,,Qingdao coastline of Shandong Province,China
+AQ027,10.1271/bbb.120047,Aspergillus,versicolor,,,,,EN-7,,alga,Sargassum thunbergii,,Qingdao coastline of Shandong Province,China
+AQ028,10.1271/bbb.120047,Aspergillus,versicolor,,,,,EN-7,,alga,Sargassum thunbergii,,Qingdao coastline of Shandong Province,China
+AQ029,10.1271/bbb.120047,Aspergillus,versicolor,,,,,EN-7,,alga,Sargassum thunbergii,,Qingdao coastline of Shandong Province,China
+AQ030,10.1007/s10600-020-02956-w,Trichoderma,sp.,,,,,,,sea cucumber,,Yellow Sea,"Chengshantou Island, Weihai City",China
+AQ031,10.1007/s10600-020-02956-w,Trichoderma,sp.,,,,,,,sea cucumber,,Yellow Sea,"Chengshantou Island, Weihai City",China
+AQ032,10.1007/s10600-020-02956-w,Trichoderma,sp.,,,,,,,sea cucumber,,Yellow Sea,"Chengshantou Island, Weihai City",China
+AQ042,10.1248/cpb.55.1097,Monodictys,sp.,,,,,,,sea urchin,Anthocidaris crassispina,Sea of Japan,Toyama Bay,Japan
+AQ043,10.1002/hlca.201300358,Eurotium,cristatum,,,,,EN-220,,alga,Sargassum thunbergii,,Qingdao Coast,China
+AQ050,10.1002/hlca.201300358,Eurotium,cristatum,,,,,EN-220,,alga,Sargassum thunbergii,,Qingdao Coast,China
+AQ051,10.3390/md19100575,,,Nocardiopsis,aegyptia,,,HDN19-252,,animal sample,,,Antarctica,Antarctica
+AQ052,10.3390/md19100575,,,Nocardiopsis,aegyptia,,,HDN19-252,,animal sample,,,Antarctica,Antarctica
+AQ053,10.3390/md19100575,,,Nocardiopsis,aegyptia,,,HDN19-252,,animal sample,,,Antarctica,Antarctica
+AQ054,10.3390/md19100575,,,Nocardiopsis,aegyptia,,,HDN19-252,,animal sample,,,Antarctica,Antarctica
+AQ055,10.1016/j.phytol.2012.06.015,,,Streptomyces,sp.,Xestospongia,sp.,BCC45596,,sponge,,,"Sichang Island, Chonburi",Thailand
+AQ056,10.1016/j.phytol.2012.06.015,,,Streptomyces,sp.,Xestospongia,sp.,BCC45596,,sponge,,,"Sichang Island, Chonburi",Thailand
+AQ057,10.1016/j.phytol.2012.06.015,,,Streptomyces,sp.,Xestospongia,sp.,BCC45596,,sponge,,,"Sichang Island, Chonburi",Thailand
+AQ058,10.1016/j.phytol.2012.06.015,,,Streptomyces,sp.,Xestospongia,sp.,BCC45596,,sponge,,,"Sichang Island, Chonburi",Thailand
+AQ059,10.3390/md19080457,Neosartorya,spinosa,,,Mycale,sp.,KUFA 1047,,sponge,,,"Samae San Island, Chonburi province",Thailand
+AQ060,10.3390/md19080457,Neosartorya,spinosa,,,Mycale,sp.,KUFA 1047,,sponge,,,"Samae San Island, Chonburi province",Thailand
+AQ063,10.1007/s12272-012-0309-2,Trichoderma,aureoviride,,,,,PSU-F95,,gorgonian sea fan,Annella sp.,,,
+AQ064,10.1007/s12272-012-0309-2,Trichoderma,aureoviride,,,,,PSU-F95,,gorgonian sea fan,Annella sp.,,,
+AQ065,10.1007/s12272-012-0309-2,Trichoderma,aureoviride,,,,,PSU-F95,,gorgonian sea fan,Annella sp.,,,
+AQ066,10.1007/s12272-012-0309-2,Trichoderma,aureoviride,,,,,PSU-F95,,gorgonian sea fan,Annella sp.,,,
+AQ067,10.1007/s12272-012-0309-2,Trichoderma,aureoviride,,,,,PSU-F95,,gorgonian sea fan,Annella sp.,,,
+AQ068,10.1080/14786419.2017.1329732,Aspergillus,versicolor,,,,,,,sediment,,West Pacific Ocean,"141.7608°E, 9.7942°N",West Pacific Ocean
+AQ069,10.1080/14786419.2017.1329732,Aspergillus,versicolor,,,,,,,sediment,,West Pacific Ocean,"141.7608°E, 9.7942°N",West Pacific Ocean
+AQ070,10.1080/14786419.2017.1329732,Aspergillus,versicolor,,,,,,,sediment,,West Pacific Ocean,"141.7608°E, 9.7942°N",West Pacific Ocean
+AQ071,10.1007/s12272-010-0207-4,Aspergillus,versicolor,,,Petrosia,sp.,,,sponge,,,Jeju Island,Korea
+AQ072,10.1007/s12272-010-0207-4,Aspergillus,versicolor,,,Petrosia,sp.,,,sponge,,,Jeju Island,Korea
+AQ073,10.1007/s12272-010-0207-4,Aspergillus,versicolor,,,Petrosia,sp.,,,sponge,,,Jeju Island,Korea
+AQ074,10.1038/ja.2008.57,Aspergillus,sp.,,,,,05F16,,alga,,,Coral reef at Manado,Indonesia
+AQ075,10.1038/ja.2008.57,Aspergillus,sp.,,,,,05F16,,alga,,,Coral reef at Manado,Indonesia
+AQ076,10.3762/bjoc.15.289,Fusarium,sp.,,,Xestospongia,sp.,KJMT.FP.4.3,,sponge,,,"Karimunjawa National Park, Central Java",Indonesia
+AQ077,10.1080/14786419.2019.1645658,,,Streptomyces,sp.,,,"Mei 16-1,2",,soil,,Wadden Sea,"Caeciliengroden salty marshland, Jade Bay",Germany
+AQ078,10.1080/14786419.2019.1645658,,,Streptomyces,sp.,,,"Mei 16-1,2",,soil,,Wadden Sea,"Caeciliengroden salty marshland, Jade Bay",Germany
+AQ079,10.1080/14786419.2019.1645658,,,Streptomyces,sp.,,,"Mei 16-1,2",,soil,,Wadden Sea,"Caeciliengroden salty marshland, Jade Bay",Germany
+AQ080,10.1080/14786419.2019.1645659,,,Streptomyces,sp.,,,"Mei 16-1,2",,soil,,Wadden Sea,"Caeciliengroden salty marshland, Jade Bay",Germany
+AQ081,10.1007/s12272-012-1006-x,Aspergillus,versicolor,,,,,,,alga,Halimeda opuntia,Egyptian Red Sea,"Rass Mohamed, South Sinai",Egypt
+AQ082,10.1007/s12272-012-1006-x,Aspergillus,versicolor,,,,,,,alga,Halimeda opuntia,Egyptian Red Sea,"Rass Mohamed, South Sinai",Egypt
+AQ088,10.3390/antibiotics9050252,,,Streptomyces,sp.,,,EG1,,sediment,,Mediterranean Sea,Mersa Matruh city,Egypt
+AQ089,10.1134/S1068162006030125,,,Streptomyces,corchorusii,,,AUBN1/7,,sediment,,,"Machilipatnam coast, Bay of Bengal",India
+AQ092,10.1002/hlca.201100255,Eurotium,rubrum,,,,,G2,,mangrove plant,Hibiscus tiliaceus Linn,,Hainan Island,China
+AQ094,10.1016/j.fitote.2019.03.031,Aspergillus,sydowii,,,Phakellia,fusca,SCSIO41301,,,,,Xisha Islands,China
+AQ095,10.1021/np300103w,Nigrospora,sp.,,,,,ZJ-2010006,,,sea anemone (GX-WZ-20100026),South China Sea,Weizhou coral reef,China
+AQ098,10.1021/np300103w,Nigrospora,sp.,,,,,ZJ-2010006,,,sea anemone (GX-WZ-20100026),South China Sea,Weizhou coral reef,China
+AQ099,10.1021/np300103w,Nigrospora,sp.,,,,,ZJ-2010006,,,sea anemone (GX-WZ-20100026),South China Sea,Weizhou coral reef,China
+AQ104,10.1021/np300103w,Nigrospora,sp.,,,,,ZJ-2010006,,,sea anemone (GX-WZ-20100026),South China Sea,Weizhou coral reef,China
+AQ105,10.1021/np300103w,,,,,,,,AQ104,,,,,
+AQ106,10.1021/np300103w,,,,,,,,AQ104,,,,,
+AQ107,10.1021/np300103w,,,,,,,,AQ104,,,,,
+AQ108,10.1021/np300103w,,,,,,,,AQ104,,,,,
+AQ109,10.1021/np300103w,,,,,,,,AQ104,,,,,
+AQ110,10.1021/np300103w,,,,,,,,AQ104,,,,,
+AQ111,10.1021/np300103w,,,,,,,,AQ104,,,,,
+AQ112,10.1021/np300103w,Nigrospora,sp.,,,,,ZJ-2010006,,,sea anemone (GX-WZ-20100026),South China Sea,Weizhou coral reef,China
+AQ113,10.1021/np300103w,,,,,,,,AQ112,,,,,
+AQ114,10.3390/md17050262,Aspergillus,versicolor,,,,,MF180151,,sediment,,Bohai Sea,,China
+AQ123,10.1016/j.phytol.2018.06.009,Aspergillus,sp.,,,Callyspongia,sp.,F40,,sponge,,,,
+AQ125,10.1021/np010390i,Curvularia,lunata,,,Niphates,olemda,,,sponge,,,Bali Bata National Park,Indonesia
+AQ126,10.1021/np010390i,Curvularia,lunata,,,Niphates,olemda,,,sponge,,,Bali Bata National Park,Indonesia
+AQ127,10.1002/cbdv.202000057,,,Streptomyces,sampsonii,,,SCSIO 054,,gastropod,Batillaria zonalis,South China Sea,Daya Bay,China
+AQ128,10.1002/cbdv.202000057,,,Streptomyces,sampsonii,,,SCSIO 054,,gastropod,Batillaria zonalis,South China Sea,Daya Bay,China
+AQ129,10.1002/cbdv.202000057,,,Streptomyces,sampsonii,,,SCSIO 054,,gastropod,Batillaria zonalis,South China Sea,Daya Bay,China
+AQ130,10.1055/a-0835-2332,Aspergillus,versicolor,Bacillus,subtilis,Agelas,oroides,168 trpC2,,,,,Aliağa-İzmir,Turkey
+AQ131,10.1055/a-0835-2332,Aspergillus,versicolor,Bacillus,subtilis,Agelas,oroides,168 trpC2,,,,,Aliağa-İzmir,Turkey
+AQ132,10.3390/md9081428,,,Pseudonocardia,sp.,,,SCSIO 01299,,sediment,,South China Sea,,China
+AQ133,10.3390/md9081428,,,Pseudonocardia,sp.,,,SCSIO 01299,,sediment,,South China Sea,,China
+AQ134,10.3390/md9081428,,,Pseudonocardia,sp.,,,SCSIO 01299,,sediment,,South China Sea,,China
+AQ136,10.1038/ja.2008.53,,,Nocardia,sp.,,,ALAA 2000,,alga,Laurencia spectabilis,Red Sea,Ras-Gharib coast,Egypt
+AQ137,10.1038/ja.2008.53,,,Nocardia,sp.,,,ALAA 2000,,alga,Laurencia spectabilis,Red Sea,Ras-Gharib coast,Egypt
+AQ140,10.1016/j.bmc.2006.08.038,,,Streptomyces,sp.,,,N1-78-1,,alga collected from tunicate,E. turbinata,,La Paragua,Puerto Rico
+AQ141,10.1016/j.bmc.2006.08.038,,,Streptomyces,sp.,,,N1-78-1,,alga collected from tunicate,E. turbinata,,La Paragua,Puerto Rico
+AQ142,10.1016/j.bmc.2006.08.038,,,Streptomyces,sp.,,,N1-78-1,,alga collected from tunicate,E. turbinata,,La Paragua,Puerto Rico
+AQ143,10.1016/j.bmc.2006.08.038,,,Streptomyces,sp.,,,N1-78-1,,alga collected from tunicate,E. turbinata,,La Paragua,Puerto Rico
+AQ144,10.1016/j.bmc.2006.08.038,,,,,,,,AQ140,,,,,
+AQ145,10.1016/j.bmc.2006.08.038,,,,,,,,AQ141,,,,,
+AQ146,10.1016/j.bmc.2006.08.038,,,,,,,,AQ144,,,,,
+AQ147,10.1016/j.bmc.2006.08.038,,,,,,,,AQ145,,,,,
+AQ148,10.1055/s-0043-119888,,,Streptomyces,lusitanus,,,SCSIO LR32,,sediment,,South China Sea,,China
+AQ149,10.1055/s-0043-119888,,,Streptomyces,lusitanus,,,SCSIO LR32,,sediment,,South China Sea,,China
+AQ150,10.1055/s-0043-119888,,,Streptomyces,lusitanus,,,SCSIO LR32,,sediment,,South China Sea,,China
+AQ151,10.1055/s-0043-119888,,,Streptomyces,lusitanus,,,SCSIO LR32,,sediment,,South China Sea,,China
+AQ152,10.1080/14786419.2019.1660336,,,Streptomyces,sp.,,,HN-A124,,sediment,,,Hainan Province,China
+AQ153,10.1080/14786419.2019.1660336,,,Streptomyces,sp.,,,HN-A124,,sediment,,,Hainan Province,China
+AQ154,10.1021/np060248n,Chaetomium,globosum,,,,,,,alga,Polysiphonia urceolata,,Qingdao,China
+AQ155,10.1021/np060248n,Chaetomium,globosum,,,,,,,alga,Polysiphonia urceolata,,Qingdao,China
+AQ156,10.1080/14786419.2018.1553881,Penicillium,sp.,,,,,SCSIO sof101,,sediment,,,South China Sea,China
+BZ001,10.1016/j.phytol.2014.03.012,Penicillium,sp.,,,,,MA-37,,mangrove plant,Bruguiera gymnorrhiza,,Hainan Island,China
+BZ002,10.3390/md15030069,Pestalotiopsis,heterocornis,,,Phakellia,fusca,,,,,,Xisha Islands,China
+BZ004,10.1002/cbdv.201900640,Aspergillus,flavipes,,,,,DL-11,,sediment,,,"Dalian, Liaoning province",China
+BZ005,10.1002/cbdv.201900640,Aspergillus,flavipes,,,,,DL-11,,sediment,,,"Dalian, Liaoning province",China
+BZ008,10.3390/md14120223,Talaromyces,islandicus,,,,,EN-501,,alga,Laurencia okamurai,,Qingdao,China
+BZ009,10.3390/md14120223,Talaromyces,islandicus,,,,,EN-501,,alga,Laurencia okamurai,,Qingdao,China
+BZ010,10.1038/s41429-021-00464-9,Penicillium,sp.,,,,,,,mangrove plant,Acanthus ilicifolius L.,Beibu gulf,Guangxi Province,China
+BZ011,10.1038/s41429-021-00464-9,Penicillium,sp.,,,,,,,mangrove plant,Acanthus ilicifolius L.,Beibu gulf,Guangxi Province,China
+BZ012,10.1038/s41429-021-00464-9,Penicillium,sp.,,,,,,,mangrove plant,Acanthus ilicifolius L.,Beibu gulf,Guangxi Province,China
+BZ013,10.1038/s41429-021-00464-9,Penicillium,sp.,,,,,,,mangrove plant,Acanthus ilicifolius L.,Beibu gulf,Guangxi Province,China
+BZ014,10.1021/np0102713,Pestalotia,sp.,unidentified,,,,CNL365,,alga,Rosenvingea sp.,,Bahamas Islands,Bahamas
+BZ015,10.1080/14786419.2018.1460832,Penicillium,citrinum,,,,,HL-5126,,mangrove plant,Bruguiera sexangula var. rhynchopetala,South China Sea,,China
+BZ016,10.1080/14786419.2018.1460832,Penicillium,citrinum,,,,,HL-5126,,mangrove plant,Bruguiera sexangula var. rhynchopetala,South China Sea,,China
+DP001,10.3390/md19080457,Neosartorya,spinosa,,,Mycale,sp.,KUFA 1047,,,,,"Samae San Island, Chonburi province",Thailand
+DP002,10.3390/md19080457,Neosartorya,spinosa,,,Mycale,sp.,KUFA 1047,,,,,"Samae San Island, Chonburi province",Thailand
+DP003,10.1055/s-0042-103687,Sporidesmium,circinophorum,,,Petrosia,sp.,KUFA 0043,,,,,"Samae San Island, Chonburi province",Thailand
+DP004,10.1055/a-0835-2332,Aspergillus,versicolor,Bacillus,subtilis,,,168 trpC2,,,Agelas oroides,,Aliağa-İzmir,Turkey
+DP005,10.1055/a-0835-2332,Aspergillus,versicolor,Bacillus,subtilis,,,168 trpC2,,,Agelas oroides,,Aliağa-İzmir,Turkey
+DP006,10.1055/a-0835-2332,Aspergillus,versicolor,Bacillus,subtilis,,,168 trpC2,,,Agelas oroides,,Aliağa-İzmir,Turkey
+DP007,10.1021/np500906k,Pseudogymnoascus,sp.,,,Hymeniacidon,sp.,F09-T18-1,,,,,King George Island,Antarctica
+DP008,10.1021/np500906k,Pseudogymnoascus,sp.,,,Hymeniacidon,sp.,F09-T18-1,,,,,King George Island,Antarctica
+DP009,10.1021/np500906k,Pseudogymnoascus,sp.,,,Hymeniacidon,sp.,F09-T18-1,,,,,King George Island,Antarctica
+DP010,10.1021/np500906k,Pseudogymnoascus,sp.,,,Hymeniacidon,sp.,F09-T18-1,,,,,King George Island,Antarctica
+DP011,10.1016/j.phytol.2014.03.012,Penicillium,sp.,,,,,MA-37,,mangrove plant,Bruguiera gymnorrhiza,,Hainan Island,China
+DP012,10.1016/j.phytol.2014.03.012,Penicillium,sp.,,,,,MA-37,,mangrove plant,Bruguiera gymnorrhiza,,Hainan Island,China
+DP013,10.1007/s00044-015-1386-9,,,,,Lendenfeldia,dendyi,,,,,,,Papua New Guinea
+DP014,10.1007/s00044-015-1386-9,,,,,Lendenfeldia,dendyi,,,,,,,Papua New Guinea
+DP015,10.1007/s00044-015-1386-9,,,,,,,,DP014,,,,,
+DP016,10.1007/s00044-015-1386-9,,,,,Lendenfeldia,dendyi,,,,,,,Papua New Guinea
+DP017,10.1007/s00044-015-1386-9,,,,,Lendenfeldia,dendyi,,,,,,,Papua New Guinea
+DP018,10.1007/s00044-015-1386-9,,,,,,,,,coral,Sinularia dura,,,Palau
+DP018,10.1002/cbdv.201800593,,,,,Arenosclera,sp.,,,,,,Phu Quoc,Vietnam
+DP018,10.1021/np070244y,,,,,Dysidea,sp.,,,,,,,Federated States of Micronesia
+DP019,10.3390/molecules23092368,Aspergillus,tennesseensis,,,,,OUCMB I 140430,,alga,Unidentified,,Qingdao,China
+DP020,10.3390/molecules23092368,Aspergillus,tennesseensis,,,,,OUCMB I 140430,,alga,Unidentified,,Qingdao,China
+DP021,10.3390/molecules23092368,Aspergillus,tennesseensis,,,,,OUCMB I 140430,,alga,Unidentified,,Qingdao,China
+DP022,10.3390/molecules23092368,Aspergillus,tennesseensis,,,,,OUCMB I 140430,,alga,Unidentified,,Qingdao,China
+DP023,10.3390/molecules23092368,Aspergillus,tennesseensis,,,,,OUCMB I 140430,,alga,Unidentified,,Qingdao,China
+DP024,10.3390/molecules23092368,Aspergillus,tennesseensis,,,,,OUCMB I 140430,,alga,Unidentified,,Qingdao,China
+DP025,10.3390/molecules23092368,Aspergillus,tennesseensis,,,,,OUCMB I 140430,,alga,Unidentified,,Qingdao,China
+DP026,10.3390/molecules23092368,Aspergillus,tennesseensis,,,,,OUCMB I 140430,,alga,Unidentified,,Qingdao,China
+DP027,10.1080/14786419.2017.1363754,Aspergillus,sp.,,,,,CUGB-F046,,sediment,,Bohai Sea,,China
+DP028,10.1080/14786419.2017.1363754,Aspergillus,sp.,,,,,CUGB-F046,,sediment,,Bohai Sea,,China
+DP029,10.1002/cbdv.201800593,,,,,Arenosclera,sp.,,,,,,Phu Quoc,Vietnam
+DP030,10.1002/cbdv.201800593,,,,,Arenosclera,sp.,,,,,,Phu Quoc,Vietnam
+DP031,10.1002/cbdv.201800593,,,,,Arenosclera,sp.,,,,,,Phu Quoc,Vietnam
+DP032,10.1002/cbdv.201800593,,,,,Arenosclera,sp.,,,,,,Phu Quoc,Vietnam
+DP033,10.1002/cbdv.201800593,,,,,Arenosclera,sp.,,,,,,Phu Quoc,Vietnam
+DP035,10.1002/cbdv.201800593,,,,,Arenosclera,sp.,,,,,,Phu Quoc,Vietnam
+DP036,10.1002/cbdv.201800593,,,,,Arenosclera,sp.,,,,,,Phu Quoc,Vietnam
+DP037,10.1002/cbdv.201800593,,,,,Arenosclera,sp.,,,,,,Phu Quoc,Vietnam
+DP037,10.1021/np0605081,,,,,Lamellodysidea,herbacea,,,,,,"Sangiang Island, West Java",Indonesia
+DP038,10.1016/j.bmcl.2015.03.057,,,,,Dysidea,granulosa,,,,,,,
+DP039,10.1021/np0605081,,,,,Lamellodysidea,herbacea,,,,,,"Sangiang Island, West Java",Indonesia
+DP040,10.1021/np0605081,,,,,Lamellodysidea,herbacea,,,,,,"Sangiang Island, West Java",Indonesia
+DP041,10.1021/np0605081,,,,,Lamellodysidea,herbacea,,,,,,"Sangiang Island, West Java",Indonesia
+DP042,10.1021/np0605081,,,,,Lamellodysidea,herbacea,,,,,,"Sangiang Island, West Java",Indonesia
+DP043,10.1021/np0605081,,,,,Lamellodysidea,herbacea,,,,,,"Sangiang Island, West Java",Indonesia
+DP045,10.1021/np0605081,,,,,Lamellodysidea,herbacea,,,,,,"Sangiang Island, West Java",Indonesia
+DP046,10.1021/np0605081,,,,,Lamellodysidea,herbacea,,,,,,"Sangiang Island, West Java",Indonesia
+DP047,10.1021/np0605081,,,,,Lamellodysidea,herbacea,,,,,,"Sangiang Island, West Java",Indonesia
+DP048,10.1021/np0605081,,,,,Lamellodysidea,herbacea,,,,,,"Sangiang Island, West Java",Indonesia
+DP049,10.1021/np0605081,,,,,Lamellodysidea,herbacea,,,,,,"Sangiang Island, West Java",Indonesia
+DP050,10.1021/np0605081,,,,,,,,DP013,,,,,
+DP051,10.1021/np0605081,,,,,,,,DP039,,,,,
+DP052,10.1021/np0605081,,,,,,,,DP040,,,,,
+DP053,10.1021/np0605081,,,,,,,,DP014,,,,,
+DP054,10.1021/np0605081,,,,,,,,DP014,,,,,
+DP055,10.1021/np0605081,,,,,,,,DP043,,,,,
+DP056,10.1021/np0605081,,,,,,,,DP014,,,,,
+DP057,10.1021/np0605081,,,,,,,,DP014,,,,,
+DP058,10.1021/np0605081,,,,,,,,DP014,,,,,
+DP059,10.1021/np0605081,,,,,,,,DP014,,,,,
+DP061,10.1021/np0605081,,,,,,,,DP014,,,,,
+DP062,10.1021/np970271w,,,,,Dysidea,herbacea,,,coral,,,West Sumatra,Indonesia
+DP063,10.1021/np970271w,,,,,Dysidea,herbacea,,,coral,,,West Sumatra,Indonesia
+DP064,10.1021/np970271w,,,,,Dysidea,herbacea,,,coral,,,West Sumatra,Indonesia
+DP065,10.1021/np970271w,,,,,Dysidea,herbacea,,,coral,,,West Sumatra,Indonesia
+DP066,10.1021/np970271w,,,,,Dysidea,herbacea,,,coral,,,West Sumatra,Indonesia
+DP067,10.1021/np970271w,,,,,Dysidea,herbacea,,,coral,,,West Sumatra,Indonesia
+DP068,10.1021/np970271w,,,,,Dysidea,herbacea,,,coral,,,West Sumatra,Indonesia
+DP069,10.1021/np300377b,Penicillium,sp.,,,,,MA-37,,mangrove plant,Bruguiera gymnorrhiza,,Hainan Island,China
+DP070,10.1021/np300377b,Penicillium,sp.,,,,,MA-37,,mangrove plant,Bruguiera gymnorrhiza,,Hainan Island,China
+DP071,10.1021/np300377b,Penicillium,sp.,,,,,MA-37,,mangrove plant,Bruguiera gymnorrhiza,,Hainan Island,China
+DP072,10.1021/np300377b,Penicillium,sp.,,,,,MA-37,,mangrove plant,Bruguiera gymnorrhiza,,Hainan Island,China
+DP074,10.1021/np980496m,Dendrospora,tenella,,,,,,,foam,,,"Wood Point, New Brunswick",Canada
+DP075,10.3390/md19110611,,,,,Lamellodysidea,herbacea,,,,,,Kepulauan Seribu,Indonesia
+DP076,10.1016/j.phytol.2016.10.015,Aspergillus,sp.,,,Chondrilla,nucula,,,,,Aegean Sea,,Turkey
+DP077,10.1016/j.phytol.2016.10.015,Aspergillus,sp.,,,Chondrilla,nucula,,,,,Aegean Sea,,Turkey
+DP078,10.1016/j.phytol.2016.10.015,Aspergillus,sp.,,,Chondrilla,nucula,,,,,Aegean Sea,,Turkey
+DP079,10.1080/14786419.2021.1915309,Pseudopithomyces,maydicus,,,,,PSU-AMF350,,bryozoan,Schizoporella sp.,,Phuket Province,Thailand
+DP080,10.1080/14786419.2021.1915309,Pseudopithomyces,maydicus,,,,,PSU-AMF350,,bryozoan,Schizoporella sp.,,Phuket Province,Thailand
+DP081,10.3390/md17010006,Aspergillus,versicolor,,,,,OUCMDZ-2738,,,Enteromorpha prolifera,,"Shilaoren beach, Qingdao",China
+DP082,10.1080/14786419.2017.1289205,Aspergillus,sydowii,,,Stelletta,sp.,J05B-7F-4,,,,,,
+DP083,10.1080/14786419.2017.1289205,Aspergillus,sydowii,,,Stelletta,sp.,J05B-7F-4,,,,,,
+DP084,10.1080/14786419.2017.1289205,Aspergillus,sydowii,,,Stelletta,sp.,J05B-7F-4,,,,,,
+DP085,10.1080/14786419.2017.1289205,Aspergillus,sydowii,,,Stelletta,sp.,J05B-7F-4,,,,,,
+DP086,10.1021/acs.jnatprod.5b00004,Penicillium,aculeatum,,,,,SD-321,,sediment,,,South China Sea,China
+DP087,10.1021/np900661g,,,Leptolyngbya,crossbyana,,,,,coral,,Honaunau reef,Hawai’i,USA
+DP088,10.1021/np900661g,,,Leptolyngbya,crossbyana,,,,,coral,,Honaunau reef,Hawai’i,USA
+DP089,10.1021/np900661g,,,Leptolyngbya,crossbyana,,,,,coral,,Honaunau reef,Hawai’i,USA
+DP090,10.1021/np900661g,,,Leptolyngbya,crossbyana,,,,,coral,,Honaunau reef,Hawai’i,USA
+DP092,10.1002/cbdv.201900640,Aspergillus,flavipes,,,,,DL-11,,sediment,,,"Dalian, Liaoning province",China
+DP093,10.1002/cbdv.201900640,Aspergillus,flavipes,,,,,DL-11,,sediment,,,"Dalian, Liaoning province",China
+DP094,10.1002/cbdv.201900640,Aspergillus,flavipes,,,,,DL-11,,sediment,,,"Dalian, Liaoning province",China
+DP095,10.1002/cbdv.201900640,Aspergillus,flavipes,,,,,DL-11,,sediment,,,"Dalian, Liaoning province",China
+DP096,10.1002/cbdv.201900640,Aspergillus,flavipes,,,,,DL-11,,sediment,,,"Dalian, Liaoning province",China
+DP097,10.1002/cbdv.201900640,Aspergillus,flavipes,,,,,DL-11,,sediment,,,"Dalian, Liaoning province",China
+DP098,10.1002/cbdv.201900640,Aspergillus,flavipes,,,,,DL-11,,sediment,,,"Dalian, Liaoning province",China
+DP099,10.1002/cbdv.201900640,Aspergillus,flavipes,,,,,DL-11,,sediment,,,"Dalian, Liaoning province",China
+DP100,10.1002/cbdv.201900640,Aspergillus,flavipes,,,,,DL-11,,sediment,,,"Dalian, Liaoning province",China
+DP101,10.1002/cbdv.201900640,Aspergillus,flavipes,,,,,DL-11,,sediment,,,"Dalian, Liaoning province",China
+XT018,10.1002/mrc.3903,Aspergillus,wentii,,,,,pt-1,,alga,Gymnogongrus flabelliformis,,Coast of Pingtan Island,China
+XT019,10.1002/mrc.3903,Aspergillus,wentii,,,,,pt-1,,alga,Gymnogongrus flabelliformis,,Coast of Pingtan Island,China
+XT021,10.1007/s12272-012-0309-2,Trichoderma,aureoviride,,,,,PSU-F95,,gorgonian sea fan,Annella sp.,,,
+XT022,10.1007/s12272-012-0309-2,Trichoderma,aureoviride,,,,,PSU-F95,,gorgonian sea fan,Annella sp.,,,
+XT023,10.1016/j.phytol.2018.06.009,Aspergillus,sp.,,,Callyspongia,sp.,F40,,,,,"Xuwen County, Guangdong Province",China
+XT024,10.1038/ja.2010.154,Aspergillus,versicolor,,,Callyspongia,sp.,CXCTD-06-6a,,,,Pacific Ocean,,
+XT025,10.1016/j.fitote.2021.105004,Aspergillus,sp.,,,Haliclona,sp.,LS57,,,,,"Lingshui, Hainan Province",China
+XT026,10.1002/chem.201600430,Engyodontium,album,,,Cacospinga,scalaris,LF069,,,,,Limski Fjord,Croatia
+XT027,10.1002/chem.201600430,Engyodontium,album,,,Cacospinga,scalaris,LF069,,,,,Limski Fjord,Croatia
+XT028,10.1002/chem.201600430,Engyodontium,album,,,Cacospinga,scalaris,LF069,,,,,Limski Fjord,Croatia
+XT029,10.1002/chem.201600430,Engyodontium,album,,,Cacospinga,scalaris,LF069,,,,,Limski Fjord,Croatia
+XT030,10.1002/chem.201600430,Engyodontium,album,,,Cacospinga,scalaris,LF069,,,,,Limski Fjord,Croatia
+XT032,10.1002/chem.201600430,Engyodontium,album,,,Cacospinga,scalaris,LF069,,,,,Limski Fjord,Croatia
+XT033,10.1002/chem.201600430,Engyodontium,album,,,Cacospinga,scalaris,LF069,,,,,Limski Fjord,Croatia
+XT034,10.1038/ja.2012.110,Penicillium,sp.,,,,,SCSGAF 0023,,gorgonian coral,Dichotella gemmacea,South China Sea,Hainan Province,China
+XT035,10.1080/14786419.2021.1915309,Pseudopithomyces,maydicus,,,,,PSU-AMF350,,bryozoan sp.,Schizoporella,,Phuket Province,Thailand
+XT036,10.1080/14786419.2017.1289205,Aspergillus,sydowii,,,Stelletta,sp.,,,,,,,
+XT037,10.1002/cbdv.201900640,Aspergillus,flavipes,,,,,DL-11,,sediment,,,"Dalian, Liaoning province",China
+XT038,10.1002/cbdv.201900640,Aspergillus,flavipes,,,,,DL-11,,sediment,,,"Dalian, Liaoning province",China
+XT039,10.3390/md14120223,Talaromyces,islandicus,,,,,EN-501,,alga,Laurencia okamurai,,Qingdao,China
+XT040,10.3390/md14120223,Talaromyces,islandicus,,,,,EN-501,,alga,Laurencia okamurai,,Qingdao,China
+XT081,10.1016/j.fitote.2018.11.015,Aspergillus,versicolor,,,,,,,clam,,East China Sea,,China
+XT081,10.1007/s10600-020-03203-y,Aspergillus,versicolor,,,,,HBU-2017-7,,,,Bohai Sea,,China
+XT170,10.1016/j.fitote.2018.11.015,Aspergillus,versicolor,,,,,,,clam,,East China Sea,,China
+XT241,10.1007/s10600-020-03203-y,Aspergillus,versicolor,,,,,HBU-2017-7,,,,Bohai Sea,,China
+XT886,10.1007/s12272-012-1006-x,Aspergillus,versicolor,,,,,,,alga,Halimeda opuntia,Red Sea,South Sinai,Egypt
