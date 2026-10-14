@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite the article below."
+title: "antibacterial-marine-polyketides"
+type: dataset
+repository-code: "https://github.com/jxsoares/antibacterial-marine-polyketides"
+authors:
+  - family-names: Soares
+    given-names: "José X."
+    orcid: "https://orcid.org/0000-0001-8496-156X"
+preferred-citation:
+  type: article
+  title: "The Chemical Space of Marine Antibacterials: Diphenyl Ethers, Benzophenones, Xanthones, and Anthraquinones"
+  journal: Molecules
+  year: 2023
+  volume: 28
+  issue: 10
+  start: 4073
+  doi: 10.3390/molecules28104073
+  authors:
+    - family-names: Soares
+      given-names: "José X."
+      orcid: "https://orcid.org/0000-0001-8496-156X"
+    - family-names: Afonso
+      given-names: Inês
+    - family-names: Omerbasic
+      given-names: Adaleta
+      orcid: "https://orcid.org/0009-0005-8855-735X"
+    - family-names: Loureiro
+      given-names: "Daniela R. P."
+      orcid: "https://orcid.org/0000-0003-3382-5626"
+    - family-names: Pinto
+      given-names: "Madalena M. M."
+      orcid: "https://orcid.org/0000-0002-4676-1409"
+    - family-names: Afonso
+      given-names: "Carlos M. M."
+      orcid: "https://orcid.org/0000-0002-5731-5789"
